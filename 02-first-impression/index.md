@@ -29,6 +29,8 @@ A short description about the work.
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
 ![Write an alternative text description.](img/fire.gif)
+(img/draftfire.gif)(img/firesteps.jpg)
+
 
 - A short description about the project — *the what*.
 - A short description about the significance of the project — *the whys*.

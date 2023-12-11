@@ -26,17 +26,14 @@ A short description about yourself. Think — alt text description length, a max
 # Graphics
 Editing in photoshop of this random blue girl I found on pinterest.
 
-# 3D
+## 3D
 Since I really like animated series about 5 girls wielding elemental powers, I tried creating a rock that would each character have.
 
-# Animation
-I tried captivating a fire movement
-
-# Art
+## Art
 Some basic doodles.
 
 
-### Featured Project 1 Title
+### Featured Project Fire momevement 
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 

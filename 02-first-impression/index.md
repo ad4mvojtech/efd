@@ -23,7 +23,8 @@ I love a good cup of coffee and interesting tattoos. I occasionaly go to gym, sp
 A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
 
 ## Featured Projects
-# Graphics
+
+## Graphics
 Editing in photoshop of this random blue girl I found on pinterest.
 
 ## 3D

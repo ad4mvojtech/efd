@@ -10,19 +10,31 @@
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
 
-## About
-Im adam, im storyteller and character designer. My interesterest are revolving around games and movies??
+## About ADAM
+Hello, I am a storyteller and wannabe character designer.
+My interesterest are revolving around games and movies. I like living inside my head.
 
-I love a good cup of coffee and interesting tattoos.
+
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
 
+I love a good cup of coffee and interesting tattoos. I occasionaly go to gym, spend time with friends, have a deep talks about life. 
 A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
 
 ## Featured Projects
-grafika, animace,3D
-A short description about the work.
+# Graphics
+Editing in photoshop of this random blue girl I found on pinterest.
+
+# 3D
+Since I really like animated series about 5 girls wielding elemental powers, I tried creating a rock that would each character have.
+
+# Animation
+I tried captivating a fire movement
+
+# Art
+Some basic doodles.
+
 
 ### Featured Project 1 Title
 

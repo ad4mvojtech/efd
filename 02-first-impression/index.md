@@ -1,5 +1,6 @@
 # First Impression
 
+
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
@@ -10,7 +11,9 @@
 - [Notes](#notes)
 
 ## About
+Im adam, im storyteller and character designer. My interesterest are revolving around games and movies??
 
+I love a good cup of coffee and interesting tattoos.
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
@@ -18,7 +21,7 @@
 A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
 
 ## Featured Projects
-
+grafika, animace,3D
 A short description about the work.
 
 ### Featured Project 1 Title

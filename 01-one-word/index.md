@@ -1,3 +1,4 @@
+(01-one-word/girl)
 ALT TEXT picture:
 "An individual in the center of the image, in the middle of vibrant speech bubbles. These bubbles contain variations of the word 'OK' in different fonts, colors, and sizes, offering a visual representation of the varied interpretations of this commonly used word in modern communication. The person's thoughtful expression reflects the questioning nature of our interactions, where 'OK' can mean agreement, indifference, acknowledgment, or even reluctance to engage."
 
@@ -10,4 +11,5 @@ The versatility of 'ok' is undeniable. It can serve as a quick and efficient res
 On the flip side, 'ok' can also express disinterest, reluctance to engage, or a preference for a delayed response.
 The word 'ok' is an embodiment of a silent language within itself.  Understanding its nuances is a really good skill to have in modern communication. It's a word that says so much by saying so little. Whether you're seeking acknowledgement, interest or even just a receipt 'ok' is the perfect tool that adapts to the needs of the moment.
 In our age of fast-paced, digital communication, the word 'ok' stays one of the most used phrases worldwide. No matter the interpretation, its meaning goes beyond language barriers. 
+(01-one-word/ok.gif)
 

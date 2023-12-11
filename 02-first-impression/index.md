@@ -25,14 +25,38 @@ A short description about yourself. Think — alt text description length, a max
 
 ## Featured Projects
 
-## Graphics
+## graphics
 Editing in photoshop of this random blue girl I found on pinterest.
+(img/neonyellow.png)
+(img/neonred.png)
+(img/neonpink.png)
+(img/neongreen.png)
+(img/neonblue.png)
+(img/neon.png)
+(img/her.jpeg)
+(img/her2.jpeg)
+(img/ha.png)
+(img/an.png)
+(img/dylm.png)
 
 ## 3D
 Since I really like animated series about 5 girls wielding elemental powers, I tried creating a rock that would each character have.
-
-## Art
+(img/all.jpg)
+(img/green.jpg)
+(img/krystalysed.png)
+(img/orange.png)
+(img/pink.jpg)
+(img/red.jpg)
+(img/white.jpg)
+## art
 Some basic doodles.
+(img/nude/jpeg)
+
+## animation
+(img/draftfire.gif)
+(img/fire.gif)
+(img/firesteps.jpg)
+(img/lightning2.gif)
 
 
 ### Featured Project Fire momevement 

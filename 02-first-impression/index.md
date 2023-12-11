@@ -17,7 +17,7 @@ My interesterest are revolving around games and movies. I like living inside my 
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-![Write an alternative text description.](img/neon.png)
+![Write an alternative text description.](img/blurred.png)
 
 I love a good cup of coffee and interesting tattoos. I occasionaly go to gym, spend time with friends, have a deep talks about life. 
 A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.

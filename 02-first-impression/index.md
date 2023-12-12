@@ -6,11 +6,11 @@
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
 - [View Presentation](img/neonblue.png) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
-- [About](#about)
+- [About](#about-ADAM)
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
 
-## About
+## About ADAM
 
 Hello, my interesterest are revolving around things that inspire me. I like aesthetically pleasing things.
 I am trying to see beauty in everyday things. It is very hard to describe myself in just a few sentences. 

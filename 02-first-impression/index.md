@@ -10,10 +10,9 @@
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
 
-## About adamvojtech
+## About adamvojtech (me)
 
-Hello, 
-My interesterest are revolving around things that inspire me. I like living inside my head.
+Hello, my interesterest are revolving around things that inspire me. I like aesthetically pleasing things.
 I am trying to see beauty in everyday things. It is very hard to describe myself in just a few sentences. 
 It is your turn now to make an opinion about me. 
 
@@ -23,7 +22,7 @@ It is your turn now to make an opinion about me.
 
 
 
-I love a good cup of coffee and interesting tattoos. I enjoy playing fps games, I occasionaly go to gym, spend time with friends, have a deep talks about life.
+I love a good cup of coffee and tattoos of any kind. I enjoy playing fps games, I occasionaly go to gym, spend time with friends, have a deep talks about life.
 
 I would say I am trying a bit from everything. 
 A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.

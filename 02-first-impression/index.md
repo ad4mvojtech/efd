@@ -28,36 +28,36 @@ Since I still do not know what I wanna do in the future, I am trying many things
 
 ## graphics
 Editing in photoshop of this random blue girl I found on pinterest.
-(img/neonyellow.png)
-(img/neonred.png)
-(img/neonpink.png)
-(img/neongreen.png)
-(img/neonblue.png)
-(img/neon.png)
-(img/her.jpeg)
-(img/her2.jpeg)
-(img/ha.png)
-(img/an.png)
-(img/dylm.png)
+![Write an alternative text description.](img/neonyellow.png)
+![Write an alternative text description.](img/neonred.png)
+![Write an alternative text description.](img/neonpink.png)
+![Write an alternative text description.](img/neongreen.png)
+![Write an alternative text description.](img/neonblue.png)
+![Write an alternative text description.](img/neon.png)
+![Write an alternative text description.](img/her.jpeg)
+![Write an alternative text description.](img/her2.jpeg)
+![Write an alternative text description.](img/ha.png)
+![Write an alternative text description.](img/an.png)
+![Write an alternative text description.](img/dylm.png)
 
 ## 3D
 Since I really like animated series about 5 girls wielding elemental powers, I tried creating a rock that would each character have.
-(img/all.jpg)
-(img/green.jpg)
-(img/krystalysed.png)
-(img/orange.png)
-(img/pink.jpg)
-(img/red.jpg)
-(img/white.jpg)
+![Write an alternative text description.](img/all.jpg)
+![Write an alternative text description.](img/green.jpg)
+![Write an alternative text description.](img/krystalysed.png)
+![Write an alternative text description.](img/orange.png)
+![Write an alternative text description.](img/pink.jpg)
+![Write an alternative text description.](img/red.jpg)
+![Write an alternative text description.](img/white.jpg)
 ## art
 Some basic doodles.
-(img/nude/jpeg)
+![Write an alternative text description.](img/nude/jpeg)
 
 ## animation
-(img/draftfire.gif)
-(img/fire.gif)
-(img/firesteps.jpg)
-(img/lightning2.gif)
+![Write an alternative text description.](img/draftfire.gif)
+![Write an alternative text description.](img/fire.gif)
+![Write an alternative text description.](img/firesteps.jpg)
+![Write an alternative text description.](img/lightning2.gif)
 
 
 ### Featured Project Fire momevement 

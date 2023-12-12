@@ -25,7 +25,6 @@ It is your turn now to make an opinion about me.
 I love a good cup of coffee and tattoos of any kind. I enjoy playing fps games, I occasionaly go to gym, spend time with friends, have a deep talks about life.
 
 I would say I am trying a bit from everything. 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
 
 ## Featured Projects
 Since I still do not know what I wanna do in the future, I am trying many things. Here are some examples of my work c:

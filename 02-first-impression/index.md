@@ -29,7 +29,6 @@ Since I still do not know what I wanna do in the future, I am trying a bit of ev
 Here are some examples of my work c:
 
 ## graphics
-Editing in photoshop of this random blue girl I found on pinterest.
 ![Write an alternative text description.](img/neonyellow.png)
 ![Write an alternative text description.](img/neonred.png)
 ![Write an alternative text description.](img/neonpink.png)
@@ -43,7 +42,6 @@ Editing in photoshop of this random blue girl I found on pinterest.
 ![Write an alternative text description.](img/dylm.png)
 
 ## 3D
-Since I really like animated series about 5 girls wielding elemental powers, I tried creating a rock that would each character have.
 ![Write an alternative text description.](img/all.jpg)
 ![Write an alternative text description.](img/green.jpg)
 ![Write an alternative text description.](img/krystalysed.png)
@@ -52,8 +50,7 @@ Since I really like animated series about 5 girls wielding elemental powers, I t
 ![Write an alternative text description.](img/red.jpg)
 ![Write an alternative text description.](img/white.jpg)
 ## art
-Some basic doodles.
-![Write an alternative text description.](img/nude/jpeg)
+![Write an alternative text description.](img/nude.jpeg)
 
 ## animation
 ![Write an alternative text description.](img/draftfire.gif)

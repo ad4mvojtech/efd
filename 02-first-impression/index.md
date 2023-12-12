@@ -30,13 +30,7 @@ Since I still do not know what I wanna do in the future, I am trying a bit of ev
 Here are some examples of my work.
 
 ## graphics
-![Write an alternative text description.](img/neonyellow.png)
-![Write an alternative text description.](img/neonred.png)
-![Write an alternative text description.](img/neonpink.png)
-![Write an alternative text description.](img/neongreen.png)
-![Write an alternative text description.](img/neonblue.png)
-![Write an alternative text description.](img/neon.png)
-![Write an alternative text description.](img/her.jpeg)
+![Write an alternative text description.](img/face.png)
 ![Write an alternative text description.](img/her2.jpeg)
 ![Write an alternative text description.](img/ha.png)
 ![Write an alternative text description.](img/an.png)

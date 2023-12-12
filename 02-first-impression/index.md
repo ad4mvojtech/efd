@@ -13,7 +13,7 @@
 ## About ADAM
 Hello, I am a storyteller and wannabe character designer.
 My interesterest are revolving around games and movies. I like living inside my head.
-(img/an.png)
+![Write an alternative text description.](img/an.png)
 
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->

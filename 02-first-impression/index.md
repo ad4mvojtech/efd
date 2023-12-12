@@ -33,7 +33,6 @@ Here are some examples of my work.
 ![Write an alternative text description.](img/hlavy.png)
 ![Write an alternative text description.](img/noidont.png)
 ![Write an alternative text description.](img/ha.png)
-![Write an alternative text description.](img/an.png)
 
 
 ## 3D

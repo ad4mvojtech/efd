@@ -12,9 +12,10 @@
 
 ## About adamvojtech
 
-Hello, I am a storyteller and wannabe character designer.
-My interesterest are revolving around games and movies. I like living inside my head.
-I am trying to see beauty in everyday things.
+Hello, 
+My interesterest are revolving around things that inspire me. I like living inside my head.
+I am trying to see beauty in everyday things. It is very hard to describe myself in just a few sentences. 
+It is your turn now to make an opinion about me. 
 
 
 
@@ -22,7 +23,9 @@ I am trying to see beauty in everyday things.
 
 
 
-I love a good cup of coffee and interesting tattoos. I occasionaly go to gym, spend time with friends, have a deep talks about life. 
+I love a good cup of coffee and interesting tattoos. I enjoy playing fps games, I occasionaly go to gym, spend time with friends, have a deep talks about life.
+
+I would say I am trying a bit from everything. 
 A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
 
 ## Featured Projects

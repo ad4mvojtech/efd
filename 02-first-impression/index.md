@@ -39,7 +39,6 @@ Here are some examples of my work.
 ![Write an alternative text description.](img/all.jpg)
 ![Write an alternative text description.](img/green.jpg)
 ![Write an alternative text description.](img/krystalysed.png)
-![Write an alternative text description.](img/orange.png)
 ![Write an alternative text description.](img/pink.jpg)
 ![Write an alternative text description.](img/red.jpg)
 ![Write an alternative text description.](img/white.jpg)

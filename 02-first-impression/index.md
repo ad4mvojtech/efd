@@ -20,14 +20,13 @@ It is your turn now to make an opinion about me.
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
-
-
 I love a good cup of coffee and tattoos of any kind. I enjoy playing fps games, I occasionaly go to gym, spend time with friends, have a deep talks about life.
 
 I would say I am trying a bit from everything. 
 
 ## Featured Projects
-Since I still do not know what I wanna do in the future, I am trying many things. Here are some examples of my work c:
+Since I still do not know what I wanna do in the future, I am trying a bit of everything. 
+Here are some examples of my work c:
 
 ## graphics
 Editing in photoshop of this random blue girl I found on pinterest.

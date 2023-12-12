@@ -10,7 +10,7 @@
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
 
-## About adamvojtech (me)
+## About
 
 Hello, my interesterest are revolving around things that inspire me. I like aesthetically pleasing things.
 I am trying to see beauty in everyday things. It is very hard to describe myself in just a few sentences. 

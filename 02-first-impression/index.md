@@ -26,7 +26,8 @@ I would say I am trying a bit from everything.
 
 ## Featured Projects
 Since I still do not know what I wanna do in the future, I am trying a bit of everything. 
-Here are some examples of my work c:
+
+Here are some examples of my work.
 
 ## graphics
 ![Write an alternative text description.](img/neonyellow.png)

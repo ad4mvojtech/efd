@@ -31,10 +31,10 @@ Here are some examples of my work.
 
 ## graphics
 ![Write an alternative text description.](img/hlavy.png)
-![Write an alternative text description.](img/her2.jpeg)
+![Write an alternative text description.](img/noidont.jpeg)
 ![Write an alternative text description.](img/ha.png)
 ![Write an alternative text description.](img/an.png)
-![Write an alternative text description.](img/dylm.png)
+
 
 ## 3D
 ![Write an alternative text description.](img/all.jpg)

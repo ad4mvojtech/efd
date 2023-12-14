@@ -37,11 +37,9 @@ Here are some examples of my work.
 
 ## 3D
 ![Write an alternative text description.](img/all.jpg)
-![Write an alternative text description.](img/green.jpg)
 ![Write an alternative text description.](img/krystalysed.png)
-![Write an alternative text description.](img/pink.jpg)
-![Write an alternative text description.](img/red.jpg)
-![Write an alternative text description.](img/white.jpg)
+![Write an alternative text description.](img/krystalysed2.png)
+
 ## art
 ![Write an alternative text description.](img/nude.jpeg)
 
@@ -55,13 +53,6 @@ Here are some examples of my work.
 ### Featured Project
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
-
-![Write an alternative text description.](img/fire.gif)
-![Write an alternative text description.](img/nude.jpeg)
-![Write an alternative text description.](img/krystalysed.png)
-![Write an alternative text description.](img/neonred.png)
-
-
 
 - A short description about the project — *the what*.
 - A short description about the significance of the project — *the whys*.

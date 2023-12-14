@@ -38,7 +38,7 @@ Here are some examples of my work.
 ## 3D
 ![Write an alternative text description.](img/all.jpg)
 ![Write an alternative text description.](img/krystalysed.png)
-![Write an alternative text description.](img/krystalysed2.png)
+![Write an alternative text description.](img/krystalised2.png)
 
 ## art
 ![Write an alternative text description.](img/nude.jpeg)

@@ -1,8 +1,8 @@
 ![Write an alternative text description.](img/girl.png)
-ALT TEXT picture:
+# ALT TEXT picture:
 "An individual in the center of the image, in the middle of vibrant speech bubbles. These bubbles contain variations of the word 'OK' in different fonts, colors, and sizes, offering a visual representation of the varied interpretations of this commonly used word in modern communication. The person's thoughtful expression reflects the questioning nature of our interactions, where 'OK' can mean agreement, indifference, acknowledgment, or even reluctance to engage."
 
-"The Unspoken Language of 'Ok': What Lies Behind a Simple Word"
+## "The Unspoken Language of 'Ok': What Lies Behind a Simple Word"
 
 In the world of daily modern communication, the word 'ok' is a linguistic chameleon that is taking on various shades of meaning. It's a two to four-letter word that we often encounter in our digital interactions, but its interpretations are far from united. Everyone definitely understands and uses its subtle message.
 Consider this: you're engaged in a conversation, and instead of engaging with you, the response is a curt 'ok.' It's like a punctuation mark that leaves you questioning the intention behind it. Is it indifference, agreement, or sign to acknowledge receipt?

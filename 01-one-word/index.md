@@ -1,4 +1,4 @@
-(img/girl.png)
+![Write an alternative text description.](img/girl.png)
 ALT TEXT picture:
 "An individual in the center of the image, in the middle of vibrant speech bubbles. These bubbles contain variations of the word 'OK' in different fonts, colors, and sizes, offering a visual representation of the varied interpretations of this commonly used word in modern communication. The person's thoughtful expression reflects the questioning nature of our interactions, where 'OK' can mean agreement, indifference, acknowledgment, or even reluctance to engage."
 

@@ -31,9 +31,9 @@ Here are some examples of my work:
 ## GRAPHICS
 I really enjoy working with bright colours, here is an example of a random picture from pinterest that I have edited. 
 ![Write an alternative text description.](img/hlavy.png)
-On the left side are some pictures of my work that I`ve tried to create a t-shirt. 
+The pictures on the left show some mock-up print designs for the T-shirt. This is just a draft, nothing finished.  
 ![Playing with a random font and trying to create a 3D print for a t-shirt.](img/noidont.png)
-Here is just a mockup of how the tshirt could look in real life. 
+Here is how the mockup of the tshirt could look in real life. 
 (obrz. tricka)
 
 

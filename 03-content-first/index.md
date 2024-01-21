@@ -7,7 +7,7 @@
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
 - [Content](02-first-impression/index-final.md)  <!-- Add helpful hint as to what kind of file or destination is here. -->
--  [ArtStation](artstation) 
+-  [ArtStation](https://www.artstation.com/roku) 
 
 ## First impression
 

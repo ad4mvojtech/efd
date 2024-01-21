@@ -6,7 +6,7 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [Content](02-first  <!-- Add helpful hint as to what kind of file or destination is here. -->
+- [Content](02-first-impression/index-final.md)  <!-- Add helpful hint as to what kind of file or destination is here. -->
 
 ## First impression
 

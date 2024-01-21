@@ -44,7 +44,6 @@ Some of my 3D work for my animation atelier.
 ![Write an alternative text description.](img/animace2.png)
 
 
-
 ## ART
 ![Write an alternative text description.](img/nude.jpeg)
 

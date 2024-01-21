@@ -40,9 +40,9 @@ Here is how the mockup of the tshirt could look in real life.
 ## 3D
 Some of my 3D work for my animation atelier. 
 ![Write an alternative text description.](img/all.jpg)
-![Write an alternative text description.](img/3D-1.png)
-![Write an alternative text description.](img/3D-2.png)
-![Write an alternative text description.](img/3D-3.png)
+![Write an alternative text description.](img/animace1.png)
+![Write an alternative text description.](img/animace2.png)
+
 
 
 ## ART

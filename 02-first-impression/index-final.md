@@ -28,7 +28,7 @@ Since I still do not know what I wanna do in the future, I am trying a bit of ev
 
 Here are some examples of my work:
 
-## graphics
+## GRAPHICS
 I really enjoy working with bright colours, here is an example of a random picture from pinterest that I have edited. 
 ![Write an alternative text description.](img/hlavy.png)
 On the left side are some pictures of my work that I`ve tried to create a t-shirt. 
@@ -42,10 +42,10 @@ Some of my 3D work for my animation atelier.
 ![Write an alternative text description.](img/all.jpg)
 
 
-## art
+## ART
 ![Write an alternative text description.](img/nude.jpeg)
 
-## animation
+## ANIMATION
 Some of my animations. I have not finished the movie from the second year yet, but I would like to go with this style. 
 ![Write an alternative text description.](img/draftfire.gif)
 ![Write an alternative text description.](img/fire.gif)

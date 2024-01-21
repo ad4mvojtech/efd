@@ -40,13 +40,13 @@ Here is just a mockup of how the tshirt could look in real life.
 ## 3D
 Some of my 3D work for my animation atelier. 
 ![Write an alternative text description.](img/all.jpg)
-![Write an alternative text description.](img/krystalised2.png)
+
 
 ## art
 ![Write an alternative text description.](img/nude.jpeg)
 
 ## animation
-Some of my first animations I have not finished the movie from the second year yet, but this is the style I would like to go with. 
+Some of my animations. I have not finished the movie from the second year yet, but I would like to go with this style. 
 ![Write an alternative text description.](img/draftfire.gif)
 ![Write an alternative text description.](img/fire.gif)
 ![Write an alternative text description.](img/lightning2.gif)

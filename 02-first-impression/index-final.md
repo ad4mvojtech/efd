@@ -26,12 +26,15 @@ I would say I am still trying to figure out what I want to do in life.
 ## Featured Projects
 Since I still do not know what I wanna do in the future, I am trying a bit of everything. 
 
-Here are some examples of my work.
+Here are some examples of my work:
 
 ## graphics
 I really enjoy working with bright colours, here is an example of a random picture from pinterest that I have edited. 
 ![Write an alternative text description.](img/hlavy.png)
+On the left side are some pictures of my work that I`ve tried to create a t-shirt. 
 ![Playing with a random font and trying to create a 3D print for a t-shirt.](img/noidont.png)
+Here is just a mockup of how the tshirt could look in real life. 
+(obrz. tricka)
 
 
 ## 3D
@@ -43,8 +46,10 @@ Some of my 3D work for my animation atelier.
 ![Write an alternative text description.](img/nude.jpeg)
 
 ## animation
+Some of my first animations I have not finished the movie from the second year yet, but this is the style I would like to go with. 
 ![Write an alternative text description.](img/draftfire.gif)
 ![Write an alternative text description.](img/fire.gif)
-![Write an alternative text description.](img/firesteps.jpg)
 ![Write an alternative text description.](img/lightning2.gif)
+
+
 

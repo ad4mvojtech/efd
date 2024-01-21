@@ -1,6 +1,6 @@
 # Hello! :)
 
-My name’s Adam, I’m an junior animator based in Prague. I can speak Czech, English and German & I study French.
+My name’s Adam, I’m an junior animator based in Prague. I can speak Czech, English and German & I also study French.
 
 To see some of my work, please scroll a bit, to see my portfolio.
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
@@ -29,11 +29,13 @@ Since I still do not know what I wanna do in the future, I am trying a bit of ev
 Here are some examples of my work.
 
 ## graphics
+I really enjoy working with bright colours, here is an example of a random picture from pinterest that I have edited. 
 ![Write an alternative text description.](img/hlavy.png)
-![Write an alternative text description.](img/noidont.png)
+![Playing with a random font and trying to create a 3D print for a t-shirt.](img/noidont.png)
 
 
 ## 3D
+Some of my 3D work for my animation atelier. 
 ![Write an alternative text description.](img/all.jpg)
 ![Write an alternative text description.](img/krystalised2.png)
 
@@ -45,24 +47,4 @@ Here are some examples of my work.
 ![Write an alternative text description.](img/fire.gif)
 ![Write an alternative text description.](img/firesteps.jpg)
 ![Write an alternative text description.](img/lightning2.gif)
-
-
-### Featured Project
-
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
-
-- A short description about the project — *the what*.
-- A short description about the significance of the project — *the whys*.
-- A short description about the outcome of the project — *the result or takeaway*.
-
-<!-- Use the same stucture above for the rest of your featured projects. -->
-
-## Notes
-
-Numbered comments about each featured project as presenter notes or speaking points.
-
-1. …
-2. …
-3. …
-<!-- And so on. -->
 

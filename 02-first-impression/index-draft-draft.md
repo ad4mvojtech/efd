@@ -34,7 +34,7 @@ I really enjoy working with bright colours, here is an example of a random pictu
 The pictures on the left show some mock-up print designs for the T-shirt. This is just a draft, nothing finished.  
 ![Playing with a random font and trying to create a 3D print for a t-shirt.](img/noidont.png)
 Here is how the mockup of the tshirt could look in real life. 
-(obrz. tricka)
+![Write an alternative text description.](img/tričkadesign.png)
 
 
 ## 3D

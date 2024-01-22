@@ -2,7 +2,7 @@
 
 My name’s Adam Vojtěch, I’m an junior animator based in Prague. I can speak Czech, English and German & I also study French. (And no I am not related to the former Minister of Health.)
 
-If you wish to see my portfolio, please click at the content section:)
+If you wish to see my portfolio, please click at the Portfolio section.
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->

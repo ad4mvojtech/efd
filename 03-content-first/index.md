@@ -1,6 +1,6 @@
 # Hello there!!
 
-My name’s Adam Vojtěch, I’m an junior animator based in Prague. I can speak Czech, English and German & I also study French. (And no :) I am not related to the former Minister of Health.)
+My name’s Adam Vojtěch, I’m an junior animator based in Prague. I can speak Czech, English and German & I also study French. (And no I am not related to the former Minister of Health.)
 
 If you wish to see my portfolio, please click at the content section:)
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->

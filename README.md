@@ -1,6 +1,6 @@
 # Content first
 - [Content](03-content-first/index.md)
-## Portfolio and first impression
+## Portfolio and First Impression
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->

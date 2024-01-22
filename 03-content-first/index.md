@@ -11,5 +11,5 @@
 
 ## First impression
 
-- [Draft content](#02-first-impression)
+- [Draft content](02-first-impression/index-draft.md)
 - [A one word "ok"](#01-one-word)

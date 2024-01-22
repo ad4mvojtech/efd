@@ -9,8 +9,9 @@ If you wish to see my portfolio, please click at the Portfolio section.
 
 ## … and here’s something about me:)
 
-My interests are  and draw inspiration from various sources. I appreciate aesthetics and find beauty in the ordinary. Describing myself in a few sentences is a challenge, so now it's your turn to form an opinion.
+My interests may vary, yet in one thing stay the same and that is that I draw inspiration from various sources. 
+I appreciate aesthetics and find beauty in the ordinary. Describing myself in a few sentences is a challenge, so now it's your turn to form an opinion.
 
-A good cup of coffee and a variety of tattoos always capture my interest. I indulge in playing FPS games, hit the gym occasionally, socialize with friends, and engage in deep conversations about life. When not immersed in my studies, I work as a customer care specialist, a demanding role that involves assisting people with simple tasks that may be challenging for them. :))
+A good cup of coffee and a variety of tattoos always capture my interest. I indulge in playing FPS games, hit the gym occasionally, socialize with friends, and engage in deep conversations about life. Recently I started playing chess too. When not immersed in my studies, I work as a customer care specialist, a demanding role that involves assisting people with simple tasks that may be challenging for them. :))
 
 I am currently in the process of figuring out my path in life. 

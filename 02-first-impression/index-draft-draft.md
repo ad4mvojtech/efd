@@ -53,8 +53,6 @@ Some of my animations. I have not finished the movie from the second year yet, b
 ![Write an alternative text description.](img/fire.gif)
 ![Write an alternative text description.](img/lightning2.gif)
 
-# What would I possibly like to try in the future?
-painting, ceramics, tattoos, sewing and knitting and many more :)
 
 
 

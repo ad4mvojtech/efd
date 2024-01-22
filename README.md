@@ -7,7 +7,7 @@
 - [Portfolio](02-first-impression/index-draft-draft.md)  <!-- Add helpful hint as to what kind of file or destination is here. -->
 -  [ArtStation](https://www.artstation.com/roku) 
 
-## Other required tasks during this semester
+## Other required tasks for this english class
 
 - [Draft content](02-first-impression/index-draft.md)
 - [A one word "ok" final](01-one-word/index.md)

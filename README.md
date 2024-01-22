@@ -18,4 +18,4 @@
 - [A one word "ok" revision](01-one-word/revision.md)
 - [A one word "ok" draft](01-one-word/draft.md)
 
-  ## thank you for visiting! 
+## thank you for visiting! 

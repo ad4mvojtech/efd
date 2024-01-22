@@ -1,4 +1,6 @@
-# Content first
+# Welcome to my page! 
+
+## Content first
 
 - [Content](03-content-first/index.md)
   
@@ -9,9 +11,11 @@
 - [Portfolio](02-first-impression/index-draft-draft.md)  <!-- Add helpful hint as to what kind of file or destination is here. -->
 -  [ArtStation](https://www.artstation.com/roku) 
 
-## Other required tasks for this english class
+## other required tasks for this english class
 
 - [Draft content](02-first-impression/index-draft.md)
 - [A one word "ok" final](01-one-word/index.md)
 - [A one word "ok" revision](01-one-word/revision.md)
 - [A one word "ok" draft](01-one-word/draft.md)
+
+  ## thank you for visiting! 

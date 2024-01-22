@@ -3,7 +3,8 @@
 My name’s Adam, I’m an junior animator based in Prague. I can speak Czech, English and German & I also study French.
 
 If you’d like to see some of my work, here’s a link to my portfolio:
--[portfolio](02-first-impression/index-draft-draft.md)
+- [Portfolio c:](02-first-impression/index-draft-draft.md)
+
 
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->

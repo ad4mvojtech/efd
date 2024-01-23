@@ -64,9 +64,6 @@ My passion for drawing and the world of tattooing has become an integral part of
 simple drawing, capturing the body with few simple lines
 ![Write an alternative text description.](img/nude.jpeg)
 
-some of tattoo ideas, that I liked.
-![Write an alternative text description.](img/tattoos.png)
-
 one line tulip drawing.
 ![Write an alternative text description.](img/tulipan.jpeg)
 

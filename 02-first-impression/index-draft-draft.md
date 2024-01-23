@@ -18,9 +18,8 @@ I am trying to see beauty in everyday stuff.
 
 -remove the sentence to make an opinion about me
 -put 2D animation further up in the page
--add captions under animations
--more drawings, atleast two more
--add animation frame by frame drawing
+-add captions under each picture
+-add more drawings
 -add note for rapid movement that might cause a seizure
 -add some text to each of the topics
 
@@ -49,13 +48,16 @@ I've crafted a collection that showcases my evolving style and creative expressi
 Inspired by the dynamic interplay of visuals, I aim to work and expand my distinctive animation style.
 
 !!Please note, that one of the animation might trigger some sentitive individuals, who suffer from seizures.!! 
- 
+
+just a draft animation.  
 ![Write an alternative text description.](img/draftfire.gif)
-just a draft animation. 
-![Write an alternative text description.](img/fire.gif)
+
 Final animation with 16 images. 
-![Write an alternative text description.](img/lightning2.gif)
+![Write an alternative text description.](img/fire.gif)
+
 lightning done, using also 16 images.
+![Write an alternative text description.](img/lightning2.gif)
+
 
 ## - ART
 I deeply appreciate simplicity and find beauty in the elegance of simple lines. As my passion for drawing progressed, I became interested in the intricate art of tattooing. It is fascinating how each tattoo can tell a unique story and reflect the personality and experiences of its wearer.
@@ -66,24 +68,30 @@ Although my journey to tattooing is in its beginning stages, I am eager to impro
 
 My passion for drawing and the world of tattooing has become an integral part of my artistic identity and I am excited to see where this creative journey will take me next.
 
-![Write an alternative text description.](img/nude.jpeg)
 simple drawing, capturing the body with few simple lines
-![Write an alternative text description.](tattooideas.png)
+![Write an alternative text description.](img/nude.jpeg)
+
 some of tattoo ideas, that I liked.
-![Write an alternative text description.](tulip2.jpeg)
+![Write an alternative text description.](tattooideas.png)
+
 one line tulip drawing.
+![Write an alternative text description.](tulip2.jpeg)
+
 
 ## - 3D
 The last part of my portfolio is dedicated to 3D. Although it has a certain place in my creative journey, I must admit that it doesn't resonate with me as strongly as my other works. Personally, I find a deep connection with the expressive freedom that 2D animation offers, and it holds a special place in my heart. However, because I realise the importance of exploring different media, I also embarked on 3D.
 
 While not my main focus, I believe that experimenting with different forms and techniques adds to the overall richness of my artistic portfolio. Here are some of my 3D work for my animation atelier.
 
-![Write an alternative text description.](img/all.jpg)
 5 stones, each one representing a different element
-![Write an alternative text description.](img/animace1.png)
+![Write an alternative text description.](img/all.jpg)
+
 One of the stones on the table, done for my exam
-![Write an alternative text description.](img/animace2.png)
+![Write an alternative text description.](img/animace1.png)
+
 Stones emitting light, also done for my exam
+![Write an alternative text description.](img/animace2.png)
+
 
 
 

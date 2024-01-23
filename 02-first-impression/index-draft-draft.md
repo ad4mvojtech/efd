@@ -47,6 +47,7 @@ Here is how the mockup of the tshirt could look in real life.
 ## - ANIMATION
 I've crafted a collection that showcases my evolving style and creative expressions.
 Inspired by the dynamic interplay of visuals, I aim to work and expand my distinctive animation style.
+
 !!Please note, that one of the animation might trigger some sentitive individuals, who suffer from seizures.!! 
  
 ![Write an alternative text description.](img/draftfire.gif)

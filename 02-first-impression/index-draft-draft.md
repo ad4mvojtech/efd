@@ -22,6 +22,7 @@ I am trying to see beauty in everyday stuff.
 -more drawings, atleast two more
 -add animation frame by frame drawing
 -add note for rapid movement that might cause a seizure
+-add some text to each of the topics
 
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
@@ -35,7 +36,12 @@ Since I still do not know what I wanna do in the future, I am trying a bit of ev
 Here are some examples of my work:
 
 ## GRAPHICS
-I really enjoy working with bright colours, here is an example of a random picture from pinterest that I have edited. 
+Diving into the vibrant world of colour has always been a joy for me. Whether it's the vibrant hues of a sunset or the bold tones in a busy city, I find inspiration everywhere. In fact, I'd like to share an example of my work with you - a random image I came across on Pinterest that I couldn't resist editing. I believe that colors have the power to evoke emotions and tell stories.
+
+My journey with the world of Photoshop started at the age of 12. It became my artistic playground, a space where I could experiment, learn and push the boundaries of my creativity. Over the years, my skills with Photoshop have grown and allowed me to turn ordinary images into vibrant art.
+
+Looking back on these formative years, I realize that my journey with Photoshop was not just about learning a software tool, but developing an artistic language.  
+
 ![Write an alternative text description.](img/headss.png)
 The pictures on the left show some mock-up print designs for the T-shirt. This is just a draft, nothing finished.  
 ![Playing with a random font and trying to create a 3D print for a t-shirt.](img/noidont.png)
@@ -49,8 +55,16 @@ Some of my animations. I have not finished the movie from the second year yet, b
 ![Write an alternative text description.](img/lightning2.gif)
 
 ## ART
-![Write an alternative text description.](img/nude.jpeg)
+I deeply appreciate simplicity and find beauty in the elegance of simple lines. As my passion for drawing progressed, I became interested in the intricate art of tattooing. It is fascinating how each tattoo can tell a unique story and reflect the personality and experiences of its wearer.
 
+As I continue to explore the world of tattooing, I am playing with the idea of taking this passion to the next level. I have cultivated a desire to delve into this field and start tattooing myself. The idea of creating permanent works of art on canvas skin fascinates me and I look forward to embarking on this artistic journey.
+
+Although my journey to tattooing is in its beginning stages, I am eager to improve my skills and express my creativity through this unique art form.
+
+My passion for drawing and the world of tattooing has become an integral part of my artistic identity and I am excited to see where this creative journey will take me next.
+![Write an alternative text description.](img/nude.jpeg)
+![Write an alternative text description.](tattooideas.png)
+![Write an alternative text description.](tulip2.jpeg)
 
 ## 3D
 Some of my 3D work for my animation atelier. 

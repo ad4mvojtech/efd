@@ -2,7 +2,6 @@
 
 My name’s Adam, I’m an junior animator based in Prague. I can speak Czech, English and German & I also study French.
 
-To see some of my work, please scroll a bit, to see my portfolio.
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->

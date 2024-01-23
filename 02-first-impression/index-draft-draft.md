@@ -70,7 +70,8 @@ My passion for drawing and the world of tattooing has become an integral part of
 ## - 3D
 The last part of my portfolio is dedicated to 3D. Although it has a certain place in my creative journey, I must admit that it doesn't resonate with me as strongly as my other works. Personally, I find a deep connection with the expressive freedom that 2D animation offers, and it holds a special place in my heart. However, because I realise the importance of exploring different media, I also embarked on 3D.
 
-While not my main focus, I believe that experimenting with different forms and techniques adds to the overall richness of my artistic portfolio. Here are some of my 3D work for my animation atelier. 
+While not my main focus, I believe that experimenting with different forms and techniques adds to the overall richness of my artistic portfolio. Here are some of my 3D work for my animation atelier.
+
 ![Write an alternative text description.](img/all.jpg)
 ![Write an alternative text description.](img/animace1.png)
 ![Write an alternative text description.](img/animace2.png)

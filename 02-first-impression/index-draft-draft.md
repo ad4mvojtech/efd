@@ -36,7 +36,7 @@ Diving into the vibrant world of colour has always been a joy for me. Whether it
 
 My journey with the world of Photoshop started at the age of 12. It became my artistic playground, a space where I could experiment, learn and push the boundaries of my creativity. Over the years, my skills with Photoshop have grown and allowed me to turn ordinary images into vibrant art.
 
-Looking back on these formative years, I realize that my journey with Photoshop was not just about learning a software tool, but developing an artistic language.  
+Looking back on these formative years, I realize that my journey with Photoshop was not just about learning a software tool, but developing an artistic language.
 
 ![Write an alternative text description.](img/headss.png)
 The pictures on the left show some mock-up print designs for the T-shirt. This is just a draft, nothing finished.  
@@ -45,10 +45,16 @@ Here is how the mockup of the tshirt could look in real life.
 ![Write an alternative text description.](img/tričkadesign.png)
 
 ## - ANIMATION
-Some of my animations. I have not finished the movie from the second year yet, but I would like to go with this style. 
+I've crafted a collection that showcases my evolving style and creative expressions.
+Inspired by the dynamic interplay of visuals, I aim to work and expand my distinctive animation style.
+!!Please note, that one of the animation might trigger some sentitive individuals, who suffer from seizures.!! 
+ 
 ![Write an alternative text description.](img/draftfire.gif)
+just a draft animation. 
 ![Write an alternative text description.](img/fire.gif)
+Final animation with 16 images. 
 ![Write an alternative text description.](img/lightning2.gif)
+lightning done, using also 16 images.
 
 ## - ART
 I deeply appreciate simplicity and find beauty in the elegance of simple lines. As my passion for drawing progressed, I became interested in the intricate art of tattooing. It is fascinating how each tattoo can tell a unique story and reflect the personality and experiences of its wearer.
@@ -60,8 +66,11 @@ Although my journey to tattooing is in its beginning stages, I am eager to impro
 My passion for drawing and the world of tattooing has become an integral part of my artistic identity and I am excited to see where this creative journey will take me next.
 
 ![Write an alternative text description.](img/nude.jpeg)
+simple drawing, capturing the body with few simple lines
 ![Write an alternative text description.](tattooideas.png)
+some of tattoo ideas, that I liked.
 ![Write an alternative text description.](tulip2.jpeg)
+one line tulip drawing.
 
 ## - 3D
 The last part of my portfolio is dedicated to 3D. Although it has a certain place in my creative journey, I must admit that it doesn't resonate with me as strongly as my other works. Personally, I find a deep connection with the expressive freedom that 2D animation offers, and it holds a special place in my heart. However, because I realise the importance of exploring different media, I also embarked on 3D.
@@ -69,8 +78,11 @@ The last part of my portfolio is dedicated to 3D. Although it has a certain plac
 While not my main focus, I believe that experimenting with different forms and techniques adds to the overall richness of my artistic portfolio. Here are some of my 3D work for my animation atelier.
 
 ![Write an alternative text description.](img/all.jpg)
+5 stones, each one representing a different element
 ![Write an alternative text description.](img/animace1.png)
+One of the stones on the table, done for my exam
 ![Write an alternative text description.](img/animace2.png)
+Stones emitting light, also done for my exam
 
 
 

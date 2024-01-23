@@ -16,13 +16,6 @@ My name’s Adam, I’m an junior animator based in Prague. I can speak Czech, E
 My interesterest are revolving around things that inspire me. I like aesthetically pleasing things.
 I am trying to see beauty in everyday stuff.   
 
--remove the sentence to make an opinion about me
--put 2D animation further up in the page
--add captions under each picture
--add more drawings
--add note for rapid movement that might cause a seizure
--add some text to each of the topics
-
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
 I love a good cup of coffee and tattoos of any kind. I enjoy playing fps games, I occasionally go to gym, spend time with friends, have a deep talks about life. When I am not studying, I am working as customer care specialist. It is very tiring work, cause all you do is take care of people who don not know how to do 3 simple clicks.

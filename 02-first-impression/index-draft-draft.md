@@ -62,6 +62,7 @@ As I continue to explore the world of tattooing, I am playing with the idea of t
 Although my journey to tattooing is in its beginning stages, I am eager to improve my skills and express my creativity through this unique art form.
 
 My passion for drawing and the world of tattooing has become an integral part of my artistic identity and I am excited to see where this creative journey will take me next.
+
 ![Write an alternative text description.](img/nude.jpeg)
 ![Write an alternative text description.](tattooideas.png)
 ![Write an alternative text description.](tulip2.jpeg)

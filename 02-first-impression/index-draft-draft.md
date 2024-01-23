@@ -65,10 +65,10 @@ simple drawing, capturing the body with few simple lines
 ![Write an alternative text description.](img/nude.jpeg)
 
 some of tattoo ideas, that I liked.
-![Write an alternative text description.](tattooideas.png)
+![Write an alternative text description.](img/tattoos.png)
 
 one line tulip drawing.
-![Write an alternative text description.](tulip2.jpeg)
+![Write an alternative text description.](img/tulipan.jpeg)
 
 
 ## - 3D

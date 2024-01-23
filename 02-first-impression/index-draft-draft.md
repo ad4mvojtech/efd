@@ -28,12 +28,8 @@ I am trying to see beauty in everyday stuff.
 
 I love a good cup of coffee and tattoos of any kind. I enjoy playing fps games, I occasionally go to gym, spend time with friends, have a deep talks about life. When I am not studying, I am working as customer care specialist. It is very tiring work, cause all you do is take care of people who don not know how to do 3 simple clicks.
 
-I would say I am still trying to figure out what I want to do in life. 
-
 ## Featured Projects
-Since I still do not know what I wanna do in the future, I am trying a bit of everything. 
-
-Here are some examples of my work:
+As I search for my future path, I explore different practices and sample a little of everything to discover my true purpose. Here are a few examples of my work, each reflecting my evolving skills and artistic identity. As I navigate the possibilities, I stay open to new opportunities and eagerly anticipate the next chapters of my creative process.
 
 ## - GRAPHICS
 Diving into the vibrant world of colour has always been a joy for me. Whether it's the vibrant hues of a sunset or the bold tones in a busy city, I find inspiration everywhere. In fact, I'd like to share an example of my work with you - a random image I came across on Pinterest that I couldn't resist editing. I believe that colors have the power to evoke emotions and tell stories.

@@ -35,7 +35,7 @@ Since I still do not know what I wanna do in the future, I am trying a bit of ev
 
 Here are some examples of my work:
 
-## GRAPHICS
+## - GRAPHICS
 Diving into the vibrant world of colour has always been a joy for me. Whether it's the vibrant hues of a sunset or the bold tones in a busy city, I find inspiration everywhere. In fact, I'd like to share an example of my work with you - a random image I came across on Pinterest that I couldn't resist editing. I believe that colors have the power to evoke emotions and tell stories.
 
 My journey with the world of Photoshop started at the age of 12. It became my artistic playground, a space where I could experiment, learn and push the boundaries of my creativity. Over the years, my skills with Photoshop have grown and allowed me to turn ordinary images into vibrant art.
@@ -48,13 +48,13 @@ The pictures on the left show some mock-up print designs for the T-shirt. This i
 Here is how the mockup of the tshirt could look in real life. 
 ![Write an alternative text description.](img/tričkadesign.png)
 
-## ANIMATION
+## - ANIMATION
 Some of my animations. I have not finished the movie from the second year yet, but I would like to go with this style. 
 ![Write an alternative text description.](img/draftfire.gif)
 ![Write an alternative text description.](img/fire.gif)
 ![Write an alternative text description.](img/lightning2.gif)
 
-## ART
+## - ART
 I deeply appreciate simplicity and find beauty in the elegance of simple lines. As my passion for drawing progressed, I became interested in the intricate art of tattooing. It is fascinating how each tattoo can tell a unique story and reflect the personality and experiences of its wearer.
 
 As I continue to explore the world of tattooing, I am playing with the idea of taking this passion to the next level. I have cultivated a desire to delve into this field and start tattooing myself. The idea of creating permanent works of art on canvas skin fascinates me and I look forward to embarking on this artistic journey.
@@ -67,7 +67,7 @@ My passion for drawing and the world of tattooing has become an integral part of
 ![Write an alternative text description.](tattooideas.png)
 ![Write an alternative text description.](tulip2.jpeg)
 
-## 3D
+## - 3D
 Some of my 3D work for my animation atelier. 
 ![Write an alternative text description.](img/all.jpg)
 ![Write an alternative text description.](img/animace1.png)

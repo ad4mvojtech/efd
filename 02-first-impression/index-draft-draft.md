@@ -32,11 +32,9 @@ Looking back on these formative years, I realize that my journey with Photoshop 
 
 ![Write an alternative text description.](img/headss.png)
 
-A mockup design for tshirt and an additional mockup of the final product!
-  
-![Playing with a random font and trying to create a 3D print for a t-shirt.](img/noidont.png)
-
 ![Write an alternative text description.](img/tričkadesign.png)
+
+![Write an alternative text description.](img/thirtdesign.png)
 
 ## - ANIMATION
 I've crafted a collection that showcases my evolving style and creative expressions.

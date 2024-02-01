@@ -34,7 +34,7 @@ Looking back on these formative years, I realize that my journey with Photoshop 
 
 ![Write an alternative text description.](img/tričkadesign.png)
 
-![Write an alternative text description.](img/thirtdesign.png)
+![Write an alternative text description.](img/tshirtdesign.png)
 
 ## - ANIMATION
 I've crafted a collection that showcases my evolving style and creative expressions.

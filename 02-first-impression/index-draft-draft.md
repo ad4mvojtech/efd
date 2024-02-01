@@ -32,7 +32,7 @@ Looking back on these formative years, I realize that my journey with Photoshop 
 
 ![Write an alternative text description.](img/headss.png)
 
-![Write an alternative text description.](img/tričkadesign.png)
+![Write an alternative text description.](img/trickadesign.png)
 
 ![Write an alternative text description.](img/tshirtdesign.png)
 

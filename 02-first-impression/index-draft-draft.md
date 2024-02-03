@@ -30,11 +30,11 @@ My journey with the world of Photoshop started at the age of 12. It became my ar
 
 Looking back on these formative years, I realize that my journey with Photoshop was not just about learning a software tool, but developing an artistic language. 
 
-![Write an alternative text description.](img/headss.png)
+![Write an alternative text description.](img/headss1.jpg)
 
-![Write an alternative text description.](img/trickaaaa.png)
+![Write an alternative text description.](img/trickaaaa1.jpg)
 
-![Write an alternative text description.](img/tshirtdesign.png)
+![Write an alternative text description.](img/tshirtdesign1.jpg)
 
 ## - ANIMATION
 I've crafted a collection that showcases my evolving style and creative expressions.
@@ -52,7 +52,7 @@ Although my journey to tattooing is in its beginning stages, I am eager to impro
 
 My passion for drawing and the world of tattooing has become an integral part of my artistic identity and I am excited to see where this creative journey will take me next.
 
-![Write an alternative text description.](img/nude.jpeg)
+![Write an alternative text description.](img/nude1.jpeg)
 
 
 ## - 3D
@@ -60,7 +60,7 @@ The last part of my portfolio is dedicated to 3D. Although it has a certain plac
 
 While not my main focus, I believe that experimenting with different forms and techniques adds to the overall richness of my artistic portfolio. Here is 5 stones, each one representing a different element that I did for my animation atelier.
 
-![Write an alternative text description.](img/all.jpg)
+![Write an alternative text description.](img/all1.jpeg)
 
 
 

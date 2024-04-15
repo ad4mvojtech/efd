@@ -1,40 +1,30 @@
-## Voice, Tone and Style
-# Voice
+# Voice, Tone and Style
+## Voice
+
 Kind and friendly: Any time I communicate I am always trying to be nice towards the other person.
-I am always trying to respect the other person, assuming they will do the same. Sometimes, if the person seems interesting to me, I like to talk to them.I use friendly and kind voice that shows my interest and enthusiasm.
+I am always trying to respect the other person, assuming they will do the same. 
+Sometimes, if the person seems interesting to me, I like to talk to them.I use friendly and kind voice that shows my interest and enthusiasm.
 I always respect different opinions and perspectives. I am always trying to find a common ground. good listener 
 
-People-Pleasing (unfortunately): When getting to the point, I tend to over explain my reasons. And all the circumstances that led to my decisions.
-                      (Subconsciously, of course.)
+People-Pleasing: When getting to the point, I tend to over explain my reasons. And all the circumstances that led to my decisions.
 
-Honest: I strive to be straightforward. I am learning how to say no and how to express even the negative opinions in polite way.
-          I reckon everyone deserves honesty. Beating about the bush or making excuses is just wasting ones time
+Candid – I am sort of a candid observer, usually more listening to other people and being honest in my conversation with them.
 
-candid:
-Caring: 
-Curious: I love learning about new interesting things. I am always trying to ask questions, that help me better understand the topic. I listen actively to what others have to say
-and share my own insight and experiences. I am open and willing to try new things. 
+Divagate – my storytelling is often interrupted by random details I remembered or I forget where I was going with the conversation.
 
-# Tone
+## Tone
 Informal: I prefer a relaxed and informal tone that suits most situations and contexts. I use a conversational and casual language that gives me naturalness and authenticity. 
-          I also use abbreviations, shortened words and slang words that give me friendliness and approachability. I do not care if I break some grammar rules, if it improves the fluency and expressiveness of my speech.
-Personal:
-Emotional: I like to convey my feelings and emotions through my tone. I use different intonations, pitches and loudness to show my mood and attitude. I also use emoticons, 
-            exclamation marks and punctuation marks to emphasize my tone and give it more expression. I do not hide my emotions, but rather share them with others.
-Neutral:
+          
+Personal: I am used to keep the circle of my friends small, so when I am along my friends I am being completely myself, cause I know that they would not judge me.
 
-Over-sharing. Or maybe just sharing: I am a fan of people communicating their feelings. I think it’s calming when people hear, that it’s not just them feeling a certain way, and that it’s all right. That you can have fear and still do the thing you are afraid of.
-              Sharing ones fears and worries can show others that we’re all humans. It sounds like a huge cliché, but I think this ability is in general still lacking.
+Emotional: I like to convey my feelings and emotions through my tone. I use different intonations, pitches and loudness to show my mood and attitude. I also use exclamation marks and punctuation marks to emphasize my tone and give it more expression. It is really hard for me to hide my emotions. 
+
+Over-sharing. Or maybe just sharing: I am a fan of people communicating their feelings. I think it’s calming when people hear, that it’s not just them feeling a certain way, and that it’s all right. That you can have fear and still do the thing you are afraid. Sharing ones fears and worries can show others that we’re all humans. It sounds like a huge cliché, but I think this ability is in general still lacking.
 Assertive: When needed, I am the one who asks the question or raises the complaint
-Proffesional:
-Creative:
-Neutral:
-supportive:
-Kind: When I talk, 80% of the time I smile. I want others to know I listen to them. And that I’m interested in what they have to say. I also don’t jump to conclusions. 
-      Instead, I remind myself that I don’t know what’s behind someone’s behaviour. So, I can’t judge them without understanding them first.
+Kind: When I talk, especially to strangers I am always trying to be nice and kind. I want others to know I listen to them. And that I’m interested in what they have to say. I also don’t jump to conclusions. Instead, I remind myself that I don’t know what’s behind someone’s behaviour. 
 
 
-# Style:
+## Style:
 I like to have things that are working together, when I create or just change the furniture in my room. 
 Organised:
 

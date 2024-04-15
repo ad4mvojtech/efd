@@ -18,4 +18,13 @@
 - [A one word "ok" revision](01-one-word/revision.md)
 - [A one word "ok" draft](01-one-word/draft.md)
 
+
+## Voice, Tone and Style
+
+
+## Storytelling
+
+
+
+
 ## thank you for visiting! 

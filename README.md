@@ -16,6 +16,8 @@
 
 ## Storytelling
 - [Presentation](05-storytelling/index.md)
+- [Slides](https://www.artstation.com/roku)
+- [Audio version](https://www.artstation.com/roku) 
 
 ## other required tasks for this english class
 

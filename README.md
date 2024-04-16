@@ -16,11 +16,11 @@
 
 ## Storytelling
 - [Presentation](05-storytelling/index.md)
-- [Slides](https://www.artstation.com/roku)
-- [Audio version](https://www.artstation.com/roku)
 
 ## Thesis
 - [Lightning talk](06-thesis/index.md)
+- [Slides](06-thesis/index.md)
+- [Audio version](06-thesis/index.md)
 
 ## Year in review
 - [Insight](07-year-in-review/index.md)

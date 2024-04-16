@@ -8,6 +8,8 @@ Hi there, I'm Adam! I thought I'd take a moment to share a little bit about myse
 
 I was always seen as the friendly, approachable kid, known for striking up conversations with strangers while waiting for a doctor's appointment or simply wandering through the shopping mall. 
 
+I would not say that much has changed, it is just I am shy now.
+
 I was born on a leap year, my birthday is around every four years. When there is no 29th of February, we celebrate either on February 28th or March 1st.
 Fortunately, I share this unique birthday "curse" with one other person in my life — my twin sister. 
 
@@ -65,7 +67,6 @@ The books I read now are in focus on self-development, helping me in my journey 
 ![Conversations on Love book cover.](img/61yEfBnIN7L._AC_UF1000,1000_QL80_.jpg)
 
 If you think this book might be interested, here are two other that you can check out:
-- Things, we
 - Everthing I know about love by Dolly Alderton
 - Things we don't talk about by Pandora Owl
 

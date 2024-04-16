@@ -1,13 +1,17 @@
 # MY INTERESTS DURING MY LIFE
 
-Hi there, I'm Adam! I thought I'd take a moment to share a little bit about myself and the journey that has shaped who I am today. I have picked a few highlights from my life, things I've enjoyed or once cherished, to give you a glimpse into the evolution of my interests. 
+Hi there, I'm Adam! I thought I'd take a moment to share a little bit about myself and the journey that has shaped who I am today. I have picked a few highlights from my life, things I've enjoyed, to give you an insight into the evolution of my interests. 
 
 ## EARLY LIFE
 
 I was always seen as the friendly, approachable kid, known for striking up conversations with strangers while waiting for a doctor's appointment or simply wandering through the shopping mall. 
 
 I was born on a leap year, my birthday is around every four years. When there is no 29th of February, we celebrate either on February 28th or March 1st.
-Fortunately, I share this unique birthday "curse" with one other person in my life — my twin sister. (fotka tebe a segry)
+Fortunately, I share this unique birthday "curse" with one other person in my life — my twin sister. 
+
+_me and my sister celebrating the 21st birthday together_
+
+
 
 
 ## MY ENGLISH JOURNEY
@@ -21,6 +25,11 @@ Iam truly grateful for the fluency I've achieved in English. While some might co
 ## GREEK MYTHOLOGY
 
 The first interest I'd like to dive into is Greek Mythology. I was obssesed with it. It started when we were in Greece for a summer holiday. Me and my mom went to a random greek bookstore and we found one book in czech. The book was about greek mythology. Because there was not much to do I started reading and I got so into it that when I came back home, I started also reading things online, watch videos and other narratives. I still like it, no matter what, just not as much anymore.
+Some known ones are:
+- Hypnos : god of sleep
+- Helios : god of sun
+- Selene : goddess of the moon
+
 
 ## HANNAH MONTANA
 Following my obsession with Greek mythology, my interests took a turn as I discovered the world of "Hannah Montana" and its star, Miley Cyrus. It was during my childhood, around the age of 8, when I found the Disney series about the double life of an ordinary student with a secret - being a pop star.
@@ -36,11 +45,22 @@ When I was 7 years old my parents gave my a playstation 1 for my birthday. At th
 Another thing apart from gaming and obsessing over weird stuff is being creative. I really enjoy the creative process of making things. When I was younger I was going to ceramics course with my sister. Now I'd like to get back into it. In my plans is also creating my own rug ( it is called tufting ). Recently I have been cutting beer bottles, so I have created nice glasses. It is harder then it seems because keeping the cutting line straight is really hard. Apart from these things I would really like to get a tattoo course, since I have many tattoos myself.
 
 ## AVATAR THE LAST AIRBENDER
-The one series that really got my heart is ATLA. Not the one on netflix, but the original animated one. I love the storyline and the bending of elements. I also really like the animation style, that seems somehow very basic, but nice. This fascination with elements comes from early age, when I loved the series called W.I.T.C.H., which is about five girls where each one wield a single element (water, fire, earth, wind). 
+The one series that really got my heart is ATLA. Not the one on netflix, but the original animated one. I love the storyline and the bending of elements. I also really like the animation style, that seems somehow very basic, but nice. This fascination with elements comes from early age, when I loved the series called W.I.T.C.H., which is about five girls where each one wield a single element (water, fire, earth, wind). This show was really ahead of its time, since they showed all the races and also sexualities. It saddens me to this day, that the show didnt get additional series, eventho the comic did. 
+
+- will : power over electricity, also a leader of the group, has the ''heart''
+- irma : power over water
+- taranee: power over fire
+- cornelia: power over earth
+- haylin: power over air
 
 
 ## BOOK - CONVERSTAIONS ON LOVE
-The books I read now are in focus on self-development, helping me in my journey of personal growth. Recently, I completed a book titled 'Conversations on Love,' which I found truly remarkable. I highly recommend it to anyone struggling with issues of self-love and the pressure to find romantic fulfillment. This insightful book helped me navigate my own self-love journey and provided invaluable insights into reframing perspectives on relationships and love in general.
+The books I read now are in focus on self-development, helping me in my journey of personal growth. Recently, I completed a book titled 'Conversations on Love, by Natasha Lunn,  which I found truly remarkable. I highly recommend it to anyone struggling with issues of self-love and the pressure to find romantic fulfillment. This book has truly helped me navigate my own self-love journey. It has provided insights into reframing perspectives on relationships and love in general.
+
+If you think this book might be interested, here are two other that you can check out:
+- Things, we
+- Everthing I know about love by Dolly Alderton
+- Things we don't talk about by Pandora Owl
 
 
 

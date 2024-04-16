@@ -1,4 +1,5 @@
 # MY INTERESTS DURING MY LIFE
+by Adam Vojtěch
 
 Audio version ()//to be added
 

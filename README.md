@@ -1,4 +1,8 @@
-# Welcome to my page! 
+# Welcome to my page!
+
+## One word
+
+- [word "ok"](01-one-word/index.md)
 
 ## Content first
 
@@ -25,12 +29,8 @@
 
 ## Year in review
 - [Insight](07-year-in-review/index.md)
-## other required tasks for this english class
 
-- [Draft content](02-first-impression/index-draft.md)
-- [A one word "ok" final](01-one-word/index.md)
-- [A one word "ok" revision](01-one-word/revision.md)
-- [A one word "ok" draft](01-one-word/draft.md)
+
 
 
 

@@ -1,1 +1,2 @@
-(img/My interests.pdf)
+![slides.](img/My interests.pdf)
+

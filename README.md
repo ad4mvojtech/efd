@@ -20,7 +20,6 @@
 
 ## Storytelling
 - [Presentation](05-storytelling/index.md)
-- [Slides in Github](05-storytelling/slides.md)
 - [Slides in Canva](https://www.canva.com/design/DAGCkQ3JVDw/XnrqggqFUof8zyAR79U3LA/view?utm_content=DAGCkQ3JVDw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Thesis

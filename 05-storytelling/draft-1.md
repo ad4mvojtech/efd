@@ -2,6 +2,8 @@
 
 Hi there, I'm Adam! I thought I'd take a moment to share a little bit about myself and the journey that has shaped who I am today. I have picked a few highlights from my life, things I've enjoyed, to give you an insight into the evolution of my interests. .
 
+![Write an alternative text description.](423695_399528213407446_1001039991_n.jpeg)
+
 ## EARLY LIFE
 
 I was always seen as the friendly, approachable kid, known for striking up conversations with strangers while waiting for a doctor's appointment or simply wandering through the shopping mall. 

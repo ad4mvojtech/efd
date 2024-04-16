@@ -12,10 +12,10 @@
 -  [ArtStation](https://www.artstation.com/roku) 
 
 ## Voice, Tone and Style
-- [Text for voice, tone and style](04-voice-tone-and-style/index.md)
+- [Text](04-voice-tone-and-style/index.md)
 
 ## Storytelling
-- [Presentation](05-storytelling/draft-1.md)
+- [Presentation](05-storytelling/index.md)
 
 ## other required tasks for this english class
 

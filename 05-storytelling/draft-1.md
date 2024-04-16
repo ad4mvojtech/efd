@@ -11,6 +11,8 @@ I was always seen as the friendly, approachable kid, known for striking up conve
 I was born on a leap year, my birthday is around every four years. When there is no 29th of February, we celebrate either on February 28th or March 1st.
 Fortunately, I share this unique birthday "curse" with one other person in my life — my twin sister. 
 
+![me and my twin sister.](img/423695_399528213407446_1001039991_n.jpeg)
+
 _me and my sister celebrating the 21st birthday together_
 
 
@@ -56,10 +58,13 @@ The one series that really got my heart is ATLA. Not the one on netflix, but the
 - haylin: power over air
   
   ![the guardians.](img/MV5BNmYxMTljNDgtY2U1My00MDUwLThmMGItNWVkOWNmOTZhOTY2XkEyXkFqcGdeQXVyNzE3ODExOTY@._V1_.jpg)
+  ![the guardians transformed.](img/witch2.jpeg)
 
 
 ## BOOK - CONVERSTAIONS ON LOVE
 The books I read now are in focus on self-development, helping me in my journey of personal growth. Recently, I completed a book titled 'Conversations on Love, by Natasha Lunn,  which I found truly remarkable. I highly recommend it to anyone struggling with issues of self-love and the pressure to find romantic fulfillment. This book has truly helped me navigate my own self-love journey. It has provided insights into reframing perspectives on relationships and love in general.
+
+![Conversations on Love book cover.](61yEfBnIN7L._AC_UF1000,1000_QL80_.jpg)
 
 If you think this book might be interested, here are two other that you can check out:
 - Things, we

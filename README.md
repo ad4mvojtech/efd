@@ -20,7 +20,7 @@
 ## Thesis
 - [Lightning talk](06-thesis/index.md)
 - [Slides](06-thesis/img/slides)
-- [Audio version](06-thesis/index.md)
+- [Audio version](06-thesis/audiofiles)
 
 ## Year in review
 - [Insight](07-year-in-review/index.md)

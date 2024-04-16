@@ -13,7 +13,7 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 - [First impression](02-first-impression/index.md)  <!-- Add helpful hint as to what kind of file or destination is here. -->
--  [ArtStation](https://www.artstation.com/roku) 
+- [Portfolio](https://www.artstation.com/roku) 
 
 ## Voice, Tone and Style
 - [Text](04-voice-tone-and-style/index.md)

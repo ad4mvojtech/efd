@@ -17,8 +17,13 @@
 ## Storytelling
 - [Presentation](05-storytelling/index.md)
 - [Slides](https://www.artstation.com/roku)
-- [Audio version](https://www.artstation.com/roku) 
+- [Audio version](https://www.artstation.com/roku)
 
+## Thesis
+- [lightning talk](06-thesis/index.md)
+
+## Year in review
+- [insight](07-year-in-review/index.md)
 ## other required tasks for this english class
 
 - [Draft content](02-first-impression/index-draft.md)

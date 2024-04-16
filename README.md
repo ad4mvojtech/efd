@@ -16,7 +16,7 @@
 
 
 ## Storytelling
-- [Presenation](05-storytelling/draft-1.md)
+- [Presentation](05-storytelling/draft-1.md)
 
 ## other required tasks for this english class
 

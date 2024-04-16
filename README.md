@@ -11,9 +11,8 @@
 - [Portfolio](02-first-impression/index.md)  <!-- Add helpful hint as to what kind of file or destination is here. -->
 -  [ArtStation](https://www.artstation.com/roku) 
 
-
 ## Voice, Tone and Style
-
+- [Text for voice, tone and style](04-voice-tone-and-style/index.md)
 
 ## Storytelling
 - [Presentation](05-storytelling/draft-1.md)

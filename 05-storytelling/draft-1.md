@@ -2,7 +2,7 @@
 
 Hi there, I'm Adam! I thought I'd take a moment to share a little bit about myself and the journey that has shaped who I am today. I have picked a few highlights from my life, things I've enjoyed, to give you an insight into the evolution of my interests. .
 
-![Write an alternative text description.](423695_399528213407446_1001039991_n.jpeg)
+![me and my twin sister.](img/423695_399528213407446_1001039991_n.jpeg)
 
 ## EARLY LIFE
 
@@ -54,6 +54,8 @@ The one series that really got my heart is ATLA. Not the one on netflix, but the
 - taranee: power over fire
 - cornelia: power over earth
 - haylin: power over air
+  
+  ![the guardians.](img/MV5BNmYxMTljNDgtY2U1My00MDUwLThmMGItNWVkOWNmOTZhOTY2XkEyXkFqcGdeQXVyNzE3ODExOTY@._V1_.jpg)
 
 
 ## BOOK - CONVERSTAIONS ON LOVE

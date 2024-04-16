@@ -1,6 +1,6 @@
 # MY INTERESTS DURING MY LIFE
 
-Hi there, I'm Adam! I thought I'd take a moment to share a little bit about myself and the journey that has shaped who I am today. I have picked a few highlights from my life, things I've enjoyed, to give you an insight into the evolution of my interests. 
+Hi there, I'm Adam! I thought I'd take a moment to share a little bit about myself and the journey that has shaped who I am today. I have picked a few highlights from my life, things I've enjoyed, to give you an insight into the evolution of my interests. .
 
 ## EARLY LIFE
 

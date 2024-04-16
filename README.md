@@ -1,14 +1,14 @@
 # Welcome to my page!
 
-## One word
+## One Word
 
 - [word "ok"](01-one-word/index.md)
 
-## Content first
+## Content First
 
 - [Content](03-content-first/index.md)
   
-## Portfolio and First Impression
+## First Impression and Portfolio
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
@@ -27,7 +27,7 @@
 - [Slides](06-thesis/img/slides)
 - [Audio version](06-thesis/audiofiles)
 
-## Year in review
+## Year In Review
 - [Insight](07-year-in-review/index.md)
 
 

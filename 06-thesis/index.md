@@ -67,6 +67,8 @@ So what are the 12 Principles of Animation?
 11. Solid drawing - The animator must be a skilled artist and understand the basics of three-dimensional shapes, anatomy, weight, balance, light and shadow, etc. The animator's job involves acting (acting out movement, scenes) and the animator should still be drawing.
 12. Appeal - Charisma, attractiveness. The character should be likeable to the viewer. Villains or monsters can also be attractive - the important thing is that the viewer feels that the character is real and interesting, the viewer must be won over and the viewer must root for the character. There are a few tricks that allow the character to connect better with the audience, to make the viewer empathize with the character. The child's face in particular bears sympathetic traits.
 
+![me and my twin sister.](img/423695_399528213407446_1001039991_n.jpeg)
+
 
 # future of 2D animation
 

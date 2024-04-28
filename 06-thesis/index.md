@@ -2,30 +2,43 @@ Hey there!
 I would like to show you a quick rundown of my bachelor thesis. Since I will be postponing my graduation, I would like to tell you something about my theoretical part, because this part is already done and ready. My topic is modern technologies used for 2D animation.
 
 What is animation?
-Základní definice 2D animace zní, že jde o animační techniky, které jsou tvořeny pouze ve dvou rozměrech, tedy v osách x a y. Pokud bych ale mohl co nejvíce zjednodušit definici 2D animace, řekl bych, že jde o umění vytvoření pohybu v dvourozměrném prostoru na osách x a y, kde animátor vytváří postavy, nejrůznější tvory a tvary, efekty ale také předměty a pozadí. 
+The basic definition of 2D animation is that it is animation techniques that are created in only two dimensions, the x and y axes. However, if I could simplify the definition of 2D animation as much as possible, I would say that it is the art of creating motion in a two-dimensional space on the x and y axes, where the animator creates characters, various creatures and shapes, effects but also objects and backgrounds. 
 
-Animace je v podstatě pouhou iluzí pro lidské oko, které není schopno zaznamenat rychle měnící se obrázky jdoucí za sebou. Iluze pohybu vzniká, když se skládáním jednotlivých kreseb za sebou vytváří rychle jdoucí obraz. Jedna sekunda bývá v animaci nejčastěji rozdělena na 24 snímků, což zajišťuje plynulý pohyb animace. V závislosti na tom, jaký styl animace má a kam se výsledný produkt dostává, může být vytvořeno až 24 kreseb za sekundu. 
+Animation is basically an illusion for the human eye, which is unable to register rapidly changing images in succession. The illusion of movement is created when a fast moving image is created by composing individual drawings in succession. One second is most often divided into 24 frames in animation, which ensures that the animation moves smoothly. Depending on the style of animation and where the final product goes, up to 24 drawings per second can be created. 
 
-Proces 2D animace (někdy označován také jako tradiční animace) prošel dlouhým vývojem od ručně kreslených technik až k použití digitálních metod s využitím specializovaných počítačových softwarů, jako jsou například Toon Boom Harmony, MOHO nebo Adobe After Effects. Tyto digitální programy přináší animátorům úsporu času a nákladů na výrobu, což ve výsledku přispívá k unikátnějšímu a rychlejšímu výslednému poduktu 2D animace.
-
+The process of 2D animation (sometimes referred to as traditional animation) has undergone a long evolution from hand-drawn techniques to the use of digital methods using specialized computer software such as Toon Boom Harmony, MOHO, and Adobe After Effects. These digital programs save animators time and production costs, resulting in a more unique and faster final 2D animation.
 
 Now, let’s take a quick look what was before all these modern solutions took place:
 
 historical development of animation:
 
-Historie animace sahá do doby, kdy člověk začal kreslit. Tato forma uměleckého vyjádření se vyvinula z jednoduchých experimentů do komplexního a komerčně úspěšného a oblíbeného média. Tento samostatný vývoj ovlivnil nejen samotnou podstatu animace, ale také způsob, jakým ji vnímáme ve dnešním světě umění a zábavy.
+The history of animation goes back to the time when man began to draw. This form of artistic expression has evolved from simple experiments into a complex and commercially successful and popular medium. This independent development has influenced not only the very nature of animation, but also the way we perceive it in today's world of art and entertainment.
 
-První ''animace'' se objevily u pravěkých lidí v jeskyních, kde se pokoušeli zachytit pohyb například kresbou vyjadřující lov zvířat. Jeskyně Altamira s malbami ze starší doby kamenné poskytuje důkaz o tom, jak lidé vytvářeli nástěnné malby tak, aby zachytili pohyb. Další důkazy animace můžeme vidět ještě například v Egyptě před více než 4 000 lety, kde na nástěnné malbě byl zaznamenán zápas mezi dvěma lidmi.
+The first ''animations'' appeared with prehistoric people in caves, where they attempted to capture movement by, for example, drawing to express animal hunting. The Altamira cave with its paintings from the earlier Stone Age provides evidence of how people created murals to capture movement. Further evidence of animation can be seen, for example, in Egypt more than 4 000 years ago, where a mural recorded a fight between two people.
 
-Dalším důkazem může být to, že v íránském Shahr-e Sukhteh v roce 3000 př. n. l. byla nalezena bronzová hrnčířská mísa s kresbami , které představovaly skákající zvěř, pravděpodobně kozy. Nejznámějším příkladem je patrně vytvoření slavné kresby Vitruviánského muže, zhotovená Leonardem da Vincim z roku 1500 n.l.. Kresba zobrazuje končetiny v různých úhlech, které vytváří dojem možného pohybu.
-
+Further evidence can be found in Shahr-e Sukhteh in Iran in 3000 BC when a bronze pottery bowl was found with drawings representing leaping animals, probably goats. The most famous example is probably the creation of the famous drawing of the Vitruvian Man, made by Leonardo da Vinci in 1500 A.D. The drawing shows limbs at different angles, giving the impression of possible movement.
 
 2D animation types
 
-2D animace si ve filmovém a herním průmyslu vydobyla klíčové postavení. 
-Díky tomu, že se animace přesunula do digitálního prostředí, nabízí daleko větší množství možností pro její tvorbu za pomocí specializovaných programových funkcí a nástrojů. Práce v oblasti 2D animace vyžaduje od animátorů a výtvarníků jak kreativitu, tak i technickou dovednost. 
+2D animation has earned a key position in the film and games industry. 
+As animation has moved into the digital realm, it offers a far greater range of possibilities for its creation using specialised software features and tools. Working in 2D animation requires both creativity and technical skill from animators and artists. 
 
-Mezi hlavní podkategorie 2D animačních technik patří :  plošková animace,kreslená animace, limitovaná animace, rotoskopie a 2D počítačová animace.
+The main sub-categories of 2D animation techniques include : surface animation,cartoon animation, limited animation, rotoscoping and 2D computer animation.
+
+Flat animation is a technique for creating animation in two-dimensional space using paper or fabric cutouts placed on a flat surface. The materials are drawn, cut out and placed on an animation glass where they are moved and replaced under the camera. Modern times also allow the creation of flat animation using stop-motion techniques and specialized programs. Flat animation is economically inexpensive, but can suffer from jerky motion compared to cartoon animation. Well-known examples of flat animation include the South Park series. In the Czech environment, prominent creators include Jiří Trnka, Karel Zeman and Zdeněk Smetana. Silhouette animation is an interesting variant of flat animation where only the silhouettes of the characters are visible. Lotte Reiniger pioneered this method.
+
+Cartoon animation is one of the oldest forms of animation and since the end of the 20th century one of its most widespread forms. This type of animation is usually created on paper or transparent film, where the animator draws the different stages of the animation (nowadays it is most often drawn on graphic tablets). A transparent board or table was used so that the frames would build on each other and there would still be smooth transitions between phases. A lamp shone through the folded papers or foils underneath, giving the animator an overview of the phases he had drawn. 
+
+In the Czech context, Zdeněk Miler, the creator of Krteček, who became an iconic symbol and Czech mascot of animation, stands out.
+
+The most important pioneers of cartoon animation from around the world who have had a significant impact on the animation industry include Walt Disney and Hayao Miyazaki. 
+
+Rotoscoping allows animators to convert a feature film into a cartoon. This technique, which is still popular despite technological innovations in the 21st century, requires manual redrawing frame by frame. Redrawing the frames is challenging because the animator who redraws the frames must capture the basic image curves, shapes, colours and shadows. Capturing these important visual elements, especially in motion, is also really challenging precisely so that what is rendered is legible to the viewer. 
+
+Invented and patented by film director Max Fleischer between 1918 and 1929, this method was later used by other artists, including Walt Disney's animators in Snow White and the Seven Dwarfs, released in 1937. Originally, rotoscoped animations were created by projecting frames of a feature film onto a frosted glass plate, where the animator redraws the actual image, as in traditional animation. 
+
+In the 21st century, this device has been replaced by the computer, but the process of redrawing individual frames has remained and is still referred to as rotoscoping. 
+A famous example of rotoscoping is the film "Waltz with Bashir", which won the Academy Award for Best Foreign Language Film.
 
 
 
@@ -35,18 +48,18 @@ Disney's twelve basic principles of animation were introduced by the Disney anim
 
 So what are the 12 Principles of Animation?
 
-1. Squash and Stretch (zmáčknout a natáhnout - důležité je, že se objem objektu nezmění, když je zmáčknutý nebo roztažený)
-2. Anticipation (předvídání - předpohyb před samotnou akcí)
-3. Staging (umístění - cílem je nasměrovat pozornost diváků a ujasnit, co je nejdůležitější v scéně, platí pravidla třetin, např. více místa tam, kam se člověk dívá nebo kam poběží)
-4. Straight Ahead Action and Pose to Pose  (v animaci jsou důležité klíčové rámce/pózy figur, vždy nejdříve promyslíme a nakreslíme několik klíčových poloh figur/klíčové rámce a následné vyplnění intervalů necháme na později)
-5. Follow Through and Overlapping Action ("Překrývající se akce" je tendence, aby se části těla pohybovaly s různým poměrem. Příbuzná technika je "přetahování". Např. na těle člověka se trup s rukama, nohama a hlavou začnou pohybovat dříve a rychleji a vlasy, oděv či části těla s velkým množstvím tkání (tučné břicho a prsa, uvolněná kůže) jsou náchylnější k pomalejšímu či dokonce nezávislému pohybu. Platí, že přehnané použití techniky může vyvolat komický efekt, zatímco realističtější animace musí čas přesně provádět, aby přinesla přesvědčivý výsledek.)
-6. Slow In and Slow Out (Pohyb lidského těla a většiny dalších objektů potřebuje čas, aby se zrychlil a zpomalil. Z tohoto důvodu animace vypadá realističtěji, pokud má více kreseb blízko začátku a konce akce a zdůrazníme-li extrémní (klíčové) pózy.)
-7. Arc (Nejvíce přirozená akce má tendenci následovat klenutou  trajektorii např. při chůzi my hlava měla tvořit vlnitou trajektorii. Výjimkou je mechanický např. robotický pohyb, který se obvykle pohybuje v přímých liniích.)
-8. Secondary Action (Přidáním sekundárních akcí do hlavní akce je scéna živější. Osoba, která se prochází, může současně házet rukama, držet je v kapsách, mluvit nebo pískat, nebo vyjadřovat emoce prostřednictvím výrazů obličeje. Důležité je, aby sekundární činnosti zdůraznili hlavní a neodváděli pozornost.)
-9. Timing (Načasování - časování se vztahuje k počtu výkresů nebo snímků pro danou akci, což se promítá do rychlosti a působení filmu. Ve filmu by měly být různé rychlosti např. závislé na akci, či váze objektu.)
-10. Exaggeration (Přehánění je efekt zvláště užitečný, protože animované pohyby, které usilují o perfektní napodobování reality, mohou vypadat staticky a nudně.)
-11. Solid drawing (Animátor musí být kvalifikovaným umělcem a musí rozumět základům trojrozměrných tvarů, anatomie, váhy, rovnováhy, světla a stínu atd. Práce animátora zahrnuje herectví (předehrávání si pohybu, scén) a animátor by měl stále kreslit.)
-12. Appeal (Charisma, přitažlivost. Postava by měla být divákovi sympatická. Darebáci nebo příšery mohou být také přitažliví - důležité je, že divák cítí, že postava je skutečná a zajímavá, musí si diváka získat a divák jí musí fandit. Existuje několik triků, které umožňují, aby se postava spojila lépe s publikem, aby se do ní divák vcítil. Sympatické znaky nese zejména dětská tvář.)
+1. Squash and Stretch - importantly, the volume of the object does not change when it is squeezed or stretched
+2. Anticipation - pre-movement before the event)
+3. Staging - the aim is to direct the audience's attention and clarify what is most important in the scene, the rule of thirds applies, e.g. more space where one looks or where one runs
+4. Straight Ahead Action and Pose to Pose - keyframes/positions of figures are important in animation, always think about and draw a few keyframes/positions first and then fill in the intervals later
+5. Follow Through and Overlapping Action - ("Overlapping action" is the tendency for body parts to move with different proportions. A related technique is "overlapping". For example, on a person's body, the torso with arms, legs, and head start moving earlier and faster, and hair, clothing, or body parts with a lot of tissue (fat belly and breasts, loose skin) are more prone to move more slowly or even independently. It is true that an exaggerated use of technique can produce a comic effect, while more realistic animation must time precise execution to produce a convincing result.
+6. Slow In and Slow Out - The motion of the human body and most other objects takes time to speed up and slow down. For this reason, the animation looks more realistic if it has more drawings near the beginning and end of the action and if we emphasize extreme (key) poses.
+7. Arc - The most natural action tends to follow an arched trajectory, e.g. when walking, our head should form an undulating trajectory. The exception is mechanical e.g. robotic motion, which usually moves in straight lines.)
+8. Secondary Action - Adding secondary actions to the main action makes the scene more lively. A person walking can simultaneously throw their hands, hold them in their pockets, talk or whistle, or express emotion through facial expressions. The important thing is that the secondary activities emphasize the main one and do not distract.
+9. Timing - Timing refers to the number of drawings or frames for a given action, which translates into the speed and impact of the film. There should be different speeds in the film depending on the action or the weight of the object, for example.
+10. Exaggeration - The exaggeration effect is particularly useful because animated movements that strive to mimic reality perfectly can look static and boring.
+11. Solid drawing - The animator must be a skilled artist and understand the basics of three-dimensional shapes, anatomy, weight, balance, light and shadow, etc. The animator's job involves acting (acting out movement, scenes) and the animator should still be drawing.
+12. Appeal - Charisma, attractiveness. The character should be likeable to the viewer. Villains or monsters can also be attractive - the important thing is that the viewer feels that the character is real and interesting, the viewer must be won over and the viewer must root for the character. There are a few tricks that allow the character to connect better with the audience, to make the viewer empathize with the character. The child's face in particular bears sympathetic traits.
 
 
 

@@ -141,7 +141,7 @@ Hybrid animation allows you to combine the advantages of 2D and 3D.
 
 Derald Hunt helped animate the “Tomb Raider” games featuring Lara Croft, among others. Most of the character animations were done in 3D. However, when the creators wanted to incorporate more movement into the scene, 2D animation proved more effective.
 
-A great example of combining 2D and 3D animation for a better end result is the animated series “Arcane” (2019). [Based on the computer game by Riot Games – French animation studio Fortiche Productions was co-developer of the series].
+A great example of combining 2D and 3D animation for a better end result is the animated series “Arcane” (2019). Based on the computer game by Riot Games – French animation studio Fortiche Productions was co-developer of the series.
 
 More than 80 animators worked on the animations. It mixed different styles and techniques including 2D and 3D animation. The characters and some of the effects are animated in 3D. On the other side, 2D was used to give texture to specific elements. Therefore, water, smoke, fire or dust were shown in 2D. The background of the animation was also in 2D.
 

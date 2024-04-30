@@ -3,17 +3,22 @@ I would like to show you a quick rundown of my bachelor thesis.
 Since I will be postponing my graduation, I would like to tell you atleast a bit about my theoretical part,this part is already done and ready. 
 The topic for my bachelor thesis is modern technolgies used for 2D animation.
 
+# Overview
+Introduction to 2D animation
+Traditional vs. Digital Animation
+Digital Drawing Tablets
+Software Tools
+12 principles of animation
+Integration of 3D elements
+
  ## What is 2D animation?
-The basic definition of 2D animation consists of animation techniques that are created in only two dimensions, the x and y axes. However, if I could simplify the definition of 2D animation as much as possible, I would say that it is the art of creating motion in a two-dimensional space on the x and y axes, where the animator creates characters, various creatures and shapes, effects but also objects and backgrounds. 
+The basic definition of 2D animation consists of animation techniques that are created in only two dimensions, the x and y axes. However the animator creates characters, various creatures and shapes, effects but also objects and backgrounds. 
 
-Animation is an illusion for the human eye, which is unable to register rapidly changing images. The illusion of movement is created when a fast moving image is created by composing individual drawings in succession. One second is most often divided into 24 frames, which ensures that the animation moves smoothly. Depending on the style of animation and where the final product goes, up to 24 drawings per second can be created. 
+Animation is an illusion for the human eye, which is unable to register rapidly changing images. The illusion of movement is created when a fast moving image is created by composing individual drawings in succession. One second is most often divided into 24 frames, which ensures that the animation moves smoothly. Depending on the style of animation and where the final product goes, up to 24 drawings per second can be created. That means one second of the final movie has 24 pictures drawn.
 
-The process of 2D animation (sometimes referred to as traditional animation) has undergone a long evolution from hand-drawn techniques to the use of digital methods using specialized computer software such as Toon Boom Harmony, MOHO, and Adobe After Effects. These digital programs save animators time and production costs, resulting in a more unique and faster final 2D animation.
-
-Now, let’s take a quick look what has been before all these modern solutions took place:
 
 ## traditional vs. digital
-We've come a long way in the evolution of animation. I mean, can you even believe there was a time when each frame of an animated character was drawn by hand? Well, believe it or not, it happened, and yes, it still happens in some cases. 
+We've come a long way in the evolution of animation.
 
 People who draw their animation characters by hand are called Traditional Animators. Thanks to the introduction of computers and, of course, animation in computer systems for  in the era of Digital Animators.
 
@@ -29,8 +34,9 @@ The best drawing tablets for animation unlocks an entire new world. Whether you'
 The Xencelabs Pen Tablet Medium Bundle is the best drawing tablet for animation overall. Xencelabs is one of the newer brands making high-quality tablets for animation.
 
 
-This isn't as large as the Wacom Cintiq 16, coming in at 13-inches the Xencelabs fits neatly with an Apple MacBook or iPad Pro – demonstrating its mobile credentials. This is a graphics tablet, not a pen display or computer tablet, so you'll need a device to plug it into. The quality is excellent and the bundle of goodies really sets you up for work – the Quick Key remote is a particular life-saver.
+This isn't as large as the Wacom Cintiq 16, coming in at 13-inches the Xencelabs fits neatly with an Apple MacBook or iPad Pro – demonstrating its mobile credentials. This is a graphics tablet, not a pen display or computer tablet, so you'll need a device to plug it into. 
 
+#ipad
 Need more than just a drawing tablet? Thanks to massive improvements in its stylus technology and display sensitivity, our testing judged that Apple's iPad is now a serious contender in the drawing tablet market, and the latest 12.9-inch iPad Pro is top of the range. Not only is it one of the best tablets ever, it's also a serious tool for animators, whether you want to use as a stand-alone tablet or hook it up to your computer as a pen display.
 
 
@@ -40,7 +46,7 @@ Of course, since this is an Apple product, you already know what the downside is
 
 The best drawing tablet for animation from Wacom is the Wacom MobileStudio Pro 16. This large pen computer and display runs full versions of software, including Maya and high end 3D software, so you can run task-heavy apps without breaking a sweat.
 
-For digital artists who work in 3D, the larger screen version of the Wacom MobileStudio Pro 16 is the best option for you. Measuring 15.6 inches, the Wacom MobileStudio Pro 16 has an impressive power and performance, although its battery life could be better. It's a little heavy too, but it comes with a built-in stand for easy designing and sketching with its accompanying stylus.
+Measuring 15.6 inches, the Wacom MobileStudio Pro 16 has an impressive power and performance, although its battery life could be better. It's a little heavy too, but it comes with a built-in stand for easy designing and sketching with its accompanying stylus.
 
 
 # Software tools

@@ -4,12 +4,12 @@ Since I will be postponing my graduation, I would like to tell you atleast a bit
 The topic for my bachelor thesis is modern technolgies used for 2D animation.
 
 # Overview
-Introduction to 2D animation
-Traditional vs. Digital Animation
-Digital Drawing Tablets
-Software Tools
-12 principles of animation
-Integration of 3D elements
+-Introduction to 2D animation
+-Traditional vs. Digital Animation
+-Digital Drawing Tablets
+-Software Tools
+-12 principles of animation
+-Integration of 3D elements
 
  ## What is 2D animation?
 The basic definition of 2D animation consists of animation techniques that are created in only two dimensions, the x and y axes. However the animator creates characters, various creatures and shapes, effects but also objects and backgrounds. 

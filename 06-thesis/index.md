@@ -12,41 +12,95 @@ The process of 2D animation (sometimes referred to as traditional animation) has
 
 Now, let’s take a quick look what has been before all these modern solutions took place:
 
-## historical development of animation:
+## traditional vs. digital
+We've come a long way in the evolution of animation. I mean, can you even believe there was a time when each frame of an animated character was drawn by hand? Well, believe it or not, it happened, and yes, it still happens in some cases. 
 
-The history of animation goes back to the time when man began to draw. This form of artistic expression has evolved from simple experiments into a complex and commercially successful and popular medium. This independent development has influenced not only the very nature of animation, but also the way we perceive it in today's world of art and entertainment.
+People who draw their animation characters by hand are dubbed Traditional Animators. Thanks to the introduction of computers and, of course, animation in computer systems for ushering in the era of Digital Animators.
 
-The first ''animations'' appeared with prehistoric people in caves, where they attempted to capture movement by, for example, drawing to express animal hunting. The Altamira cave with its paintings from the earlier Stone Age provides evidence of how people created murals to capture movement. Further evidence of animation can be seen, for example, in Egypt more than 4 000 years ago, where a mural recorded a fight between two people.
+Traditional animation or classical animation, cel animation, hand-drawn animation, or 2D animation is an animation technique in which each frame is drawn through a traditional medium. It was the dominant form of animation in cinema until computer animation was invented.
 
-Further evidence can be found in Shahr-e Sukhteh in Iran in 3000 BC when a bronze pottery bowl was found with drawings representing leaping animals, probably goats. The most famous example is probably the creation of the famous drawing of the Vitruvian Man, made by Leonardo da Vinci in 1500 A.D. The drawing shows limbs at different angles, giving the impression of possible movement.
+And now to the new world of digital animation! Digital animation is the process used by digital animators for digitally generating animated images. The more general term computer-generated imagery (CGI) encompasses both static scenes and dynamic images, while computer animation only refers to moving images.
 
-## 2D ANIMATION TYPES
+Digital animation is essentially a successor to stop motion techniques using 3D models and traditional animation techniques using frame-by-frame animation of 2D illustrations.
 
-2D animation has earned a key position in the film and games industry. 
-As animation has moved into the digital realm, it offers a far greater range of possibilities for its creation using specialised software features and tools. Working in 2D animation requires both creativity and technical skill from animators and artists. 
+Digital animation is often faster, cheaper, and more flexible than traditional animation, as it allows for easy editing, coloring, and compositing. However, it can also lose some of the charm and warmth of hand-drawn animation, and require more technical skills and equipment.
 
-The main sub-categories of 2D animation techniques include : surface animation,cartoon animation, limited animation, rotoscoping and 2D computer animation.
+## Tablets
+he best drawing tablets for animation unlocks an entire new world of creativity. Whether you're a 3D animator or your passion lies in motion capture and graphics, there are plenty of excellent drawing tablets for animation on the market from big names like Wacom, Huion, Xencelabs and XP-Pen. But if you're new to these types of tablet or want an upgrade on your current one, it can be tricky to find the right tablet to suit your budget and artistic needs.
 
-# FLAT ANIMATION
-Flat animation is a technique for creating animation in two-dimensional space using paper or fabric cutouts placed on a flat surface. The materials are drawn, cut out and placed on an animation glass where they are moved and replaced under the camera. Modern times also allow the creation of flat animation using stop-motion techniques and specialized programs. Flat animation is economically inexpensive, but can suffer from jerky motion compared to cartoon animation. Well-known examples of flat animation include the South Park series. In the Czech environment, prominent creators include Jiří Trnka, Karel Zeman and Zdeněk Smetana. Silhouette animation is an interesting variant of flat animation where only the silhouettes of the characters are visible. Lotte Reiniger pioneered this method.
+The Xencelabs Pen Tablet Medium Bundle is the best drawing tablet for animation overall. Xencelabs is one of the newer brands making high-quality tablets for animation, and it has a newer SE model just released that comes in a sleek white finish.
 
-Cartoon animation is one of the oldest forms of animation and since the end of the 20th century one of its most widespread forms. This type of animation is usually created on paper or transparent film, where the animator draws the different stages of the animation (nowadays it is most often drawn on graphic tablets). A transparent board or table was used so that the frames would build on each other and there would still be smooth transitions between phases. A lamp shone through the folded papers or foils underneath, giving the animator an overview of the phases he had drawn. 
+So what is Xencelabs Pen Tablet Medium Bundle? It's the full works in a box; it comes with the Xencelabs Pen Tablet, two pens (the 3 button and Thin Pen) and a case, a Quick Key remote with 40 programmable buttons, and other add-ons, such as the drawing glove and spare nibs. In our Xencelabs Pen Tablet Medium review our writer found this tablet to be "portable, wireless and pretty much flawless in performance".
 
-In the Czech context, Zdeněk Miler, the creator of Krteček, who became an iconic symbol and Czech mascot of animation, stands out.
+This isn't as large as the Wacom Cintiq 16, coming in at 13-inches the Xencelabs fits neatly with an Apple MacBook or iPad Pro – demonstrating its mobile credentials. This is a graphics tablet, not a pen display or computer tablet, so you'll need a device to plug it into. The quality is excellent and the bundle of goodies really sets you up for work – the Quick Key remote is a particular life-saver.
 
-The most important pioneers of cartoon animation from around the world who have had a significant impact on the animation industry include Walt Disney and Hayao Miyazaki. 
+Need more than just a drawing tablet? Thanks to massive improvements in its stylus technology and display sensitivity, our testing judged that Apple's iPad is now a serious contender in the drawing tablet market, and the latest 12.9-inch iPad Pro is top of the range. Not only is it one of the best tablets ever, it's also a serious tool for animators, whether you want to use as a stand-alone tablet or hook it up to your computer as a pen display.
 
-# ROTOSCOPING
+Our tester found that the new M2 chip makes this tablet an absolute powerhouse, with ultra-fast performance that essentially puts this iPad on the level of a MacBook. The mini-LED powered XDR display is also best-in-class, with 1,600 nits of peak brightness, 1,000 nits of full-screen brightness, greater contrast and better control of local dimming.
 
-Rotoscoping allows animators to convert a feature film into a cartoon. This technique, which is still popular despite technological innovations in the 21st century, requires manual redrawing frame by frame. Redrawing the frames is challenging because the animator who redraws the frames must capture the basic image curves, shapes, colours and shadows. Capturing these important visual elements, especially in motion, is also really challenging precisely so that what is rendered is legible to the viewer. 
+For animators who like to use Procreate Dreams, the 12.9-inch M2 iPad Pro is the best iPad for Procreate. The screen is fantastic for sketching, and its responsiveness means it works incredibly well with Procreate Dreams. Drawing with the Apple Pencil also feels fantastic, with incredible sensitivity and that unmistakable Apple design that makes it comfortable to use in the hand.
 
-Invented and patented by film director Max Fleischer between 1918 and 1929, this method was later used by other artists, including Walt Disney's animators in Snow White and the Seven Dwarfs, released in 1937. Originally, rotoscoped animations were created by projecting frames of a feature film onto a frosted glass plate, where the animator redraws the actual image, as in traditional animation. 
+Of course, since this is an Apple product, you already know what the downside is. The iPad Pro 12.9-inch M2 is a very expensive tablet, and if you don't need its blistering, top-of-the-line performance, there are options on this list to suit smaller budgets. But if you can afford it, you won't regret it.
 
-In the 21st century, this device has been replaced by the computer, but the process of redrawing individual frames has remained and is still referred to as rotoscoping. 
+The best drawing tablet for animation from Wacom is the Wacom MobileStudio Pro 16. This large pen computer and display runs full versions of software, including Maya and high end 3D software, so you can run task-heavy apps without breaking a sweat.
 
-A famous example of rotoscoping is the film "Waltz with Bashir", which won the Academy Award for Best Foreign Language Film.
+For digital artists who work in 3D, the larger screen version of the Wacom MobileStudio Pro 16 is the best option for you. Measuring 15.6 inches, the Wacom MobileStudio Pro 16 has an impressive power and performance, although its battery life could be better. It's a little heavy too, but it comes with a built-in stand for easy designing and sketching with its accompanying stylus.
 
 
+# Software tools
+Toon Boom Harmony 22 sets a high standard in 2D animation. Aspiring and professional animators use it for their projects. It offers a comprehensive suite of tools and features, from traditional frame-by-frame techniques to cut-out animation.
+
+Toon Boom Harmony has three pricing (and feature) tiers. The Essentials plan, ideal for students, starts at $28.50/month. The most expensive plan is the Premium one, which costs $129.50/month and caters to advanced users and animation studios.
+
+Key benefits and features of the tool:
+
+Industry-leading tools: Create professional-grade animations with advanced rigging, special effects, and lip-syncing features.
+Flexibility: Choose your preferred workflow, from traditional frame-by-frame to cut-out animation or even 2D and 3D integration.
+Realistic visuals: Add depth and dimension to your animations with advanced lighting, shading, and camera control options.
+Streamlined workflow: Improve productivity with features like vector drawing tools, automatic inbetweening (tweening), and seamless software integration.
+Big community of support: Toon Boom connects artists, studios, and schools through events and an active community. Their team is always available for help, offering live chat and forum support.
+While all this may sound amazing, mastering the extensive feature set might require more learning time, especially for animation beginners. Plus, the software has some hefty system requirements. 
+
+Toon Boom Harmony 22 can be expensive compared to simpler animation software, especially for less serious users who want to play around.
+
+Moho Pro lets users bring their 2D animation visions to life. Its easy interface and variety of features make it an excellent choice for anyone (beginner or expert) exploring the world of animation.
+
+Unlike many subscription-based software options, Moho Pro boasts a one-time purchase price of $399.99. This makes it a cost-effective option for long-term use, especially for individuals or smaller studios. A generous 30-day free trial allows you to test drive the software before committing to it.
+
+Key benefits:
+
+User-friendly: Moho Pro's instinctive interface makes it easy for newcomers to grasp animation fundamentals.
+Extensive learning resources: A huge library of information is available, including tutorials and documentation for the tool.
+Advanced features: Moho Pro has powerful tools like a 2D rigging system and integrated lip-syncing, catering to professional needs.
+Vector animations: Moho Pro is optimized for animation and rigging. Vectors ensure your shapes stay clean and consistent even during complex movements. 
+Streamlined workflow: Features like "Smart Bones" help eliminate tedious tasks and ensure smooth character animation, saving time and effort.
+While the one-time price may be attractive upfront, it can be a larger initial investment than some users may be able to afford. We noticed that compared to industry giants, Moho Pro's online community is smaller. A smaller community means fewer external resources and less support.
+
+Adobe Animate, previously known as Flash Professional, is animation software creators have used for decades. It remains a benchmark in 2D animation, used by professional studios and passionate hobbyists.
+
+Adobe Animate is available through a subscription-based model as part of the Creative Cloud package, starting at $22.99/month. This gives you access to a wide range of creative tools, making it a cost-effective option for those who already use (or want to use) Adobe products - like Adobe After Effects.
+
+Adobe Animate offers advanced features like:
+
+Powerful rigging tools: Create expressive characters with smooth and realistic movement.
+Seamless Adobe integration: Combine your animation with other Adobe software like Photoshop and Premiere Pro for a streamlined workflow.
+Interactive animations: Incorporate elements like buttons and forms to give life to your animations, making them ideal for web, mobile, and game development.
+Versatile toolset: Create various animation styles, from traditional frame-by-frame to cut-out and stop-motion animation.
+The extensive feature set may require dedicated learning time, especially for beginners. But, Adobe Animate offers a wealth of resources to support your animation journey: tutorials, documentation, and active online communities where you can connect with fellow animators and seek help.
+
+Clip Studio Paint isn't just another drawing or animation program. It's a comprehensive tool designed to support artists of all levels across various creative niches and all devices, including computers, iPads or tablets, and smartphones. 
+
+Whether you're a seasoned illustrator, an aspiring comic book creator, or an animation enthusiast, Clip Studio Paint provides the tools and features needed for your artistic vision.
+
+For a one-time cost of $54.00, this tool offers features like realistic color mixing and the ability to draw with transparent colors for easy erasing. For comic and manga artists, Clip Studio Paint shines with its dedicated tools for creating panels, speech bubbles, and adding screen tones.
+
+A large variety of brushes: Achieve your artistic style with a wide range of high-quality brushes that replicate the textures of traditional tools.
+Intuitive interface: Clip Studio Paint prioritizes user-friendliness with a clean and well-organized workspace, making it an easy user experience.
+Extensive material library: Plenty of free and community-created materials, including brushes, textures, and 3D models.
+Smart coloring tools: Fill your artwork with color using features like automatic gap filling and layer locking for precise painting.
+Non-destructive editing: Clip Studio Paint's editing tools allow you to adjust line thickness, colors, and effects without compromising image quality. As an animation newbie this is very valuable.
+
+While Clip Studio Paint offers a free trial, its full potential is unlocked through paid subscriptions or a one-time purchase. Some advanced features might take you longer to learn. 
 
 # 12 principles of animation
 
@@ -67,15 +121,29 @@ So what are the 12 Principles of Animation?
 11. Solid drawing - The animator must be a skilled artist and understand the basics of three-dimensional shapes, anatomy, weight, balance, light and shadow, etc. The animator's job involves acting (acting out movement, scenes) and the animator should still be drawing.
 12. Appeal - Charisma, attractiveness. The character should be likeable to the viewer. Villains or monsters can also be attractive - the important thing is that the viewer feels that the character is real and interesting, the viewer must be won over and the viewer must root for the character. There are a few tricks that allow the character to connect better with the audience, to make the viewer empathize with the character. The child's face in particular bears sympathetic traits.
 
-![me and my twin sister.](img/423695_399528213407446_1001039991_n.jpeg)
-
-
-# future of 2D animation
-
- With the current technological developments, 2D animation is expected to undergo significant changes and innovations. Key trends and future perspectives include enhanced realism and interactivity, thanks to real-time rendering and interactive tools, opening up new possibilities for artistic expression. The integration of 2D animation into the augmented reality and virtual reality space enables new ways for viewers to interact with content and storytelling. Ever-improving artificial intelligence can play a key role in autonomous animation creation, incorporating generative models and algorithms. Furthermore, AI can contribute to the personalisation of content by creating animations tailored to individual viewer preferences. Blockchain can ensure fair distribution of rewards and copyright protection for animators in the digital animation industry. Digital tools allow creators to experiment with different artistic styles and effects. The virtual environment encourages collaboration between animators on a global level, simplifying development processes. 
 
 
 
+# Integration of 3D elements
+2D animation is created when we combine different images with different heights and widths, which creates the illusion of movement in a two-dimensional world lacking depth.
+
+3D animation is generated from three-dimensional moving images in 3D computer software. Such images can not only be scaled, but also rotated and shown from different perspectives, giving the impression of depth and space.
+
+Of the most obvious advantages, especially for companies that don’t have multi-million dollar budgets like Pixar or Disney, is that 2D animation is cheaper than 3D animation.
+
+For this reason there is more movement in 2D animation than in 3D.
+
+Another plus – in 2D animation, audiences will accept more abstract elements than in 3D. You can afford more freedom to modify characters, colors, and objects.
+
+The definite advantage of 3D is the ability to show products in 3D. Therefore, 3D animations are mainly chosen by technology companies or manufacturers of electronic equipment and cars. They want to showcase the details of the equipment’s construction or design. This gives them a more realistic image than with 2D animation.
+
+Hybrid animation allows you to combine the advantages of 2D and 3D.
+
+Derald Hunt helped animate the “Tomb Raider” games featuring Lara Croft, among others. Most of the character animations were done in 3D. However, when the creators wanted to incorporate more movement into the scene, 2D animation proved more effective.
+
+A great example of combining 2D and 3D animation for a better end result is the animated series “Arcane” (2019). [Based on the computer game by Riot Games – French animation studio Fortiche Productions was co-developer of the series].
+
+More than 80 animators worked on the animations. It mixed different styles and techniques including 2D and 3D animation. The characters and some of the effects are animated in 3D. On the other side, 2D was used to give texture to specific elements. Therefore, water, smoke, fire or dust were shown in 2D. The background of the animation was also in 2D.
 
 
 

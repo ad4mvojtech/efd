@@ -15,20 +15,18 @@ Now, let’s take a quick look what has been before all these modern solutions t
 ## traditional vs. digital
 We've come a long way in the evolution of animation. I mean, can you even believe there was a time when each frame of an animated character was drawn by hand? Well, believe it or not, it happened, and yes, it still happens in some cases. 
 
-People who draw their animation characters by hand are dubbed Traditional Animators. Thanks to the introduction of computers and, of course, animation in computer systems for ushering in the era of Digital Animators.
+People who draw their animation characters by hand are called Traditional Animators. Thanks to the introduction of computers and, of course, animation in computer systems for  in the era of Digital Animators.
 
 Traditional animation or classical animation, cel animation, hand-drawn animation, or 2D animation is an animation technique in which each frame is drawn through a traditional medium. It was the dominant form of animation in cinema until computer animation was invented.
-
-And now to the new world of digital animation! Digital animation is the process used by digital animators for digitally generating animated images. The more general term computer-generated imagery (CGI) encompasses both static scenes and dynamic images, while computer animation only refers to moving images.
 
 Digital animation is essentially a successor to stop motion techniques using 3D models and traditional animation techniques using frame-by-frame animation of 2D illustrations.
 
 Digital animation is often faster, cheaper, and more flexible than traditional animation, as it allows for easy editing, coloring, and compositing. However, it can also lose some of the charm and warmth of hand-drawn animation, and require more technical skills and equipment.
 
 ## Tablets
-he best drawing tablets for animation unlocks an entire new world of creativity. Whether you're a 3D animator or your passion lies in motion capture and graphics, there are plenty of excellent drawing tablets for animation on the market from big names like Wacom, Huion, Xencelabs and XP-Pen. But if you're new to these types of tablet or want an upgrade on your current one, it can be tricky to find the right tablet to suit your budget and artistic needs.
+The best drawing tablets for animation unlocks an entire new world. Whether you're a 3D animator or your passion lies in motion capture and graphics, there are plenty of excellent drawing tablets for animation on the market from big names like Wacom, Huion, Xencelabs and XP-Pen. But if you're new to these types of tablets or want an upgrade on your current one, it can be tricky to find the right tablet to suit your budget and artistic needs.
 
-The Xencelabs Pen Tablet Medium Bundle is the best drawing tablet for animation overall. Xencelabs is one of the newer brands making high-quality tablets for animation, and it has a newer SE model just released that comes in a sleek white finish.
+The Xencelabs Pen Tablet Medium Bundle is the best drawing tablet for animation overall. Xencelabs is one of the newer brands making high-quality tablets for animation.
 
 So what is Xencelabs Pen Tablet Medium Bundle? It's the full works in a box; it comes with the Xencelabs Pen Tablet, two pens (the 3 button and Thin Pen) and a case, a Quick Key remote with 40 programmable buttons, and other add-ons, such as the drawing glove and spare nibs. In our Xencelabs Pen Tablet Medium review our writer found this tablet to be "portable, wireless and pretty much flawless in performance".
 

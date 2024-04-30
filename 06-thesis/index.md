@@ -28,13 +28,11 @@ The best drawing tablets for animation unlocks an entire new world. Whether you'
 
 The Xencelabs Pen Tablet Medium Bundle is the best drawing tablet for animation overall. Xencelabs is one of the newer brands making high-quality tablets for animation.
 
-So what is Xencelabs Pen Tablet Medium Bundle? It's the full works in a box; it comes with the Xencelabs Pen Tablet, two pens (the 3 button and Thin Pen) and a case, a Quick Key remote with 40 programmable buttons, and other add-ons, such as the drawing glove and spare nibs. In our Xencelabs Pen Tablet Medium review our writer found this tablet to be "portable, wireless and pretty much flawless in performance".
 
 This isn't as large as the Wacom Cintiq 16, coming in at 13-inches the Xencelabs fits neatly with an Apple MacBook or iPad Pro – demonstrating its mobile credentials. This is a graphics tablet, not a pen display or computer tablet, so you'll need a device to plug it into. The quality is excellent and the bundle of goodies really sets you up for work – the Quick Key remote is a particular life-saver.
 
 Need more than just a drawing tablet? Thanks to massive improvements in its stylus technology and display sensitivity, our testing judged that Apple's iPad is now a serious contender in the drawing tablet market, and the latest 12.9-inch iPad Pro is top of the range. Not only is it one of the best tablets ever, it's also a serious tool for animators, whether you want to use as a stand-alone tablet or hook it up to your computer as a pen display.
 
-Our tester found that the new M2 chip makes this tablet an absolute powerhouse, with ultra-fast performance that essentially puts this iPad on the level of a MacBook. The mini-LED powered XDR display is also best-in-class, with 1,600 nits of peak brightness, 1,000 nits of full-screen brightness, greater contrast and better control of local dimming.
 
 For animators who like to use Procreate Dreams, the 12.9-inch M2 iPad Pro is the best iPad for Procreate. The screen is fantastic for sketching, and its responsiveness means it works incredibly well with Procreate Dreams. Drawing with the Apple Pencil also feels fantastic, with incredible sensitivity and that unmistakable Apple design that makes it comfortable to use in the hand.
 

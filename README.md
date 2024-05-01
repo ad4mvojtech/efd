@@ -25,7 +25,7 @@
 ## Thesis
 - [Lightning talk](06-thesis/text.md)
 - [Slides](06-thesis/img/slides)
-- [Audio version](06-thesis/audiofiles)
+- [Audio](06-thesis/audiofiles)
 
 ## Year In Review
 - [Insight](07-year-in-review/index.md)

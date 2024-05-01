@@ -24,7 +24,7 @@
 
 ## Thesis
 - [Lightning talk](06-thesis/text.md)
-- [Slides](06-thesis/img/slides)
+- [Slides](06-thesis/img/slides/adam thesis.pdf)
 - [Audio version](06-thesis/audiofiles)
 
 ## Year In Review

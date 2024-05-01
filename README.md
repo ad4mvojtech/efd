@@ -23,7 +23,7 @@
 - [Slides in Canva](https://www.canva.com/design/DAGCkQ3JVDw/XnrqggqFUof8zyAR79U3LA/view?utm_content=DAGCkQ3JVDw&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Thesis
-- [Lightning talk](06-thesis/index.md)
+- [Lightning talk](06-thesis/text.md)
 - [Slides](06-thesis/img/slides)
 - [Audio version](06-thesis/audiofiles)
 
